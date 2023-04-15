@@ -23,4 +23,5 @@ Lets you create custom strings based on the data of an .xlsx file (Microsoft Exc
         * Also, the key that is provided to the list needs to be the same as one of the headers of the input .xlsx, only that any spaces are changed into underscores and all the letters transformed into lowercase.
         * As you can see, the left part of the template is enclosed by double quotation marks. They are essential, however, you can also use single quotation marks. Whether you use one or the other depends on whether you are going to use one of them inside the text. If you use double quotation marks to enclose, you can only use single inside, and viceversa. In the example, I'm enclosing the text with double quotation marks and the variable `col1` with single.
         * Each variable needs to be enclosed by curly braces (e.g. `{varName}`).
+        * Also, you can include as many template strings as you want, just add each in a separate line.
 6. Finally, when everything is configured, you may run `parser.exe` and see the resulting strings in the output files you defined earlier (step 3).
