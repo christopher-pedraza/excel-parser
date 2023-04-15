@@ -5,7 +5,7 @@
 Lets you create custom strings based on the data of an .xlsx file (Microsoft Excel Worksheet)
 
 ## How to use
-1. Download the compressed app.zip file from [Releases](https://github.com/christopher-pedraza/excel-parser/releases/latest/download/excel-parser.zip).
+1. Download the compressed file that contains the program and needed configuration files from [Releases](https://github.com/christopher-pedraza/excel-parser/releases/latest/download/excel-parser.zip).
 2. Extract it anywhere you want (bear in mind that it contains multiple folders and files, so you may prefer extracting it in a separate folder).
 3. Add the location of the input, template and output files in **_files.txt_**.
     * The text files' names should have the prefix of the type of file followed by an underscore. If it is an input file (input_filename.txt), a template file (template_filename.txt) and an output file (output_filename.txt).
