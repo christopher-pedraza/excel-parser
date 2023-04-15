@@ -1,3 +1,6 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/christopher-pedraza/excel-parser)
+![GitHub Release Date](https://img.shields.io/github/release-date/christopher-pedraza/excel-parser?color=c77546)
+
 # excel-parser
 Lets you create custom strings based on the data of an .xlsx file (Microsoft Excel Worksheet)
 
