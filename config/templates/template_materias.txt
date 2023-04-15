@@ -1,0 +1,1 @@
+"INSERT INTO materias VALUES({clave_ejercicio_academico}, '{clave_materia}', '{nombre_materia_largo}', '{nombre_campus}', {crn}, '{tipodeudf}')".format(clave_ejercicio_academico=val["clave_ejercicio_academico"], clave_materia=val["clave_materia"], nombre_materia_largo=val["nombre_materia_largo"], nombre_campus=val["nombre_campus"], crn=val["crn"], tipodeudf=val["tipodeudf"])

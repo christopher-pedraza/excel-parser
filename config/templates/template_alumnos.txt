@@ -1,0 +1,1 @@
+"INSERT INTO alumnos VALUES({clave_campus}, '{nombre_campus}', {clave_ejercicio_academico}, '{matricula}', '{nombre}', {crn})".format(clave_campus=val["clave_campus"], nombre_campus=val["nombre_campus"], clave_ejercicio_academico=val["clave_ejercicio_academico"], matricula=val["matricula"], nombre=val["nombre"], crn=val["crn"])

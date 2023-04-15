@@ -1,0 +1,9 @@
+config/inputs/input_alumnos.txt
+config/inputs/input_materias.txt
+config/inputs/input_profesores.txt
+config/templates/template_alumnos.txt
+config/templates/template_materias.txt
+config/templates/template_profesores.txt
+outputs/output_alumnos.txt
+outputs/output_materias.txt
+outputs/output_profesores.txt

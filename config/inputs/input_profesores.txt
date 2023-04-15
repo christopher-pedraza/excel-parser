@@ -1,0 +1,2367 @@
+Clave Ejercicio Academico	Nombre Campus	N2	NombreProfesor	Crn
+202311	Campus Aguascalientes	L00621438	Profesor 114	15334
+202311	Campus Aguascalientes	L00621504	Profesor 180	15334
+202311	Campus Aguascalientes	L00621505	Profesor 181	15320
+202311	Campus Aguascalientes	L00621506	Profesor 182	15348
+202311	Campus Aguascalientes	L00621510	Profesor 186	15290
+202311	Campus Aguascalientes	L00621510	Profesor 186	15291
+202311	Campus Aguascalientes	L00621510	Profesor 186	15292
+202311	Campus Aguascalientes	L00621558	Profesor 234	15320
+202311	Campus Aguascalientes	L00621768	Profesor 444	15334
+202311	Campus Aguascalientes	L00621769	Profesor 445	15334
+202311	Campus Aguascalientes	L00621770	Profesor 446	15352
+202311	Campus Aguascalientes	L00621823	Profesor 499	15352
+202311	Campus Aguascalientes	L00621851	Profesor 527	15348
+202311	Campus Aguascalientes	L00621886	Profesor 562	15290
+202311	Campus Aguascalientes	L00621886	Profesor 562	15291
+202311	Campus Aguascalientes	L00621886	Profesor 562	15292
+202311	Campus Aguascalientes	L00621934	Profesor 610	15334
+202311	Campus Aguascalientes	L00621940	Profesor 616	15352
+202311	Campus Aguascalientes	L00621946	Profesor 622	15348
+202311	Campus Aguascalientes	L00622090	Profesor 766	15348
+202311	Campus Aguascalientes	L00622110	Profesor 786	15334
+202311	Campus Aguascalientes	L00622118	Profesor 794	15290
+202311	Campus Aguascalientes	L00622118	Profesor 794	15291
+202311	Campus Aguascalientes	L00622118	Profesor 794	15292
+202311	Campus Aguascalientes	L00622150	Profesor 826	15348
+202311	Campus Aguascalientes	L00622404	Profesor 1080	15352
+202311	Campus Aguascalientes	L00622455	Profesor 1131	15290
+202311	Campus Aguascalientes	L00622455	Profesor 1131	15291
+202311	Campus Aguascalientes	L00622455	Profesor 1131	15292
+202311	Campus Chiapas	L00621660	Profesor 336	32923
+202311	Campus Chiapas	L00621660	Profesor 336	33348
+202311	Campus Chiapas	L00621753	Profesor 429	32923
+202311	Campus Chiapas	L00622055	Profesor 731	33348
+202311	Campus Chiapas	L00622302	Profesor 978	32923
+202311	Campus Ciudad de México	L00621407	Profesor 83	34636
+202311	Campus Ciudad de México	L00621407	Profesor 83	34637
+202311	Campus Ciudad de México	L00621440	Profesor 116	20473
+202311	Campus Ciudad de México	L00621502	Profesor 178	15595
+202311	Campus Ciudad de México	L00621519	Profesor 195	21153
+202311	Campus Ciudad de México	L00621520	Profesor 196	19250
+202311	Campus Ciudad de México	L00621603	Profesor 279	36248
+202311	Campus Ciudad de México	L00621603	Profesor 279	36249
+202311	Campus Ciudad de México	L00621616	Profesor 292	22600
+202311	Campus Ciudad de México	L00621620	Profesor 296	19249
+202311	Campus Ciudad de México	L00621623	Profesor 299	20474
+202311	Campus Ciudad de México	L00621623	Profesor 299	20475
+202311	Campus Ciudad de México	L00621624	Profesor 300	24472
+202311	Campus Ciudad de México	L00621625	Profesor 301	20420
+202311	Campus Ciudad de México	L00621625	Profesor 301	20421
+202311	Campus Ciudad de México	L00621626	Profesor 302	25853
+202311	Campus Ciudad de México	L00621626	Profesor 302	25854
+202311	Campus Ciudad de México	L00621627	Profesor 303	32701
+202311	Campus Ciudad de México	L00621628	Profesor 304	19138
+202311	Campus Ciudad de México	L00621628	Profesor 304	20410
+202311	Campus Ciudad de México	L00621630	Profesor 306	36248
+202311	Campus Ciudad de México	L00621630	Profesor 306	36249
+202311	Campus Ciudad de México	L00621631	Profesor 307	16351
+202311	Campus Ciudad de México	L00621632	Profesor 308	24472
+202311	Campus Ciudad de México	L00621633	Profesor 309	22642
+202311	Campus Ciudad de México	L00621634	Profesor 310	14056
+202311	Campus Ciudad de México	L00621637	Profesor 313	19249
+202311	Campus Ciudad de México	L00621637	Profesor 313	19250
+202311	Campus Ciudad de México	L00621638	Profesor 314	19250
+202311	Campus Ciudad de México	L00621638	Profesor 314	22638
+202311	Campus Ciudad de México	L00621640	Profesor 316	22665
+202311	Campus Ciudad de México	L00621641	Profesor 317	19249
+202311	Campus Ciudad de México	L00621641	Profesor 317	19250
+202311	Campus Ciudad de México	L00621642	Profesor 318	25853
+202311	Campus Ciudad de México	L00621642	Profesor 318	25854
+202311	Campus Ciudad de México	L00621646	Profesor 322	39926
+202311	Campus Ciudad de México	L00621648	Profesor 324	22664
+202311	Campus Ciudad de México	L00621652	Profesor 328	15596
+202311	Campus Ciudad de México	L00621656	Profesor 332	19138
+202311	Campus Ciudad de México	L00621656	Profesor 332	20410
+202311	Campus Ciudad de México	L00621657	Profesor 333	15595
+202311	Campus Ciudad de México	L00621658	Profesor 334	32699
+202311	Campus Ciudad de México	L00621658	Profesor 334	32700
+202311	Campus Ciudad de México	L00621668	Profesor 344	19139
+202311	Campus Ciudad de México	L00621785	Profesor 461	22642
+202311	Campus Ciudad de México	L00621785	Profesor 461	39926
+202311	Campus Ciudad de México	L00621787	Profesor 463	22638
+202311	Campus Ciudad de México	L00621836	Profesor 512	25853
+202311	Campus Ciudad de México	L00621836	Profesor 512	25854
+202311	Campus Ciudad de México	L00621843	Profesor 519	19242
+202311	Campus Ciudad de México	L00621843	Profesor 519	19243
+202311	Campus Ciudad de México	L00621846	Profesor 522	41315
+202311	Campus Ciudad de México	L00621848	Profesor 524	24428
+202311	Campus Ciudad de México	L00621860	Profesor 536	20470
+202311	Campus Ciudad de México	L00621860	Profesor 536	20472
+202311	Campus Ciudad de México	L00621895	Profesor 571	20475
+202311	Campus Ciudad de México	L00621895	Profesor 571	32701
+202311	Campus Ciudad de México	L00621909	Profesor 585	24472
+202311	Campus Ciudad de México	L00621930	Profesor 606	19249
+202311	Campus Ciudad de México	L00621930	Profesor 606	22640
+202311	Campus Ciudad de México	L00621930	Profesor 606	22643
+202311	Campus Ciudad de México	L00621962	Profesor 638	19139
+202311	Campus Ciudad de México	L00621962	Profesor 638	25853
+202311	Campus Ciudad de México	L00621962	Profesor 638	25854
+202311	Campus Ciudad de México	L00621994	Profesor 670	22664
+202311	Campus Ciudad de México	L00622005	Profesor 681	15596
+202311	Campus Ciudad de México	L00622007	Profesor 683	36248
+202311	Campus Ciudad de México	L00622007	Profesor 683	36249
+202311	Campus Ciudad de México	L00622031	Profesor 707	32699
+202311	Campus Ciudad de México	L00622031	Profesor 707	32700
+202311	Campus Ciudad de México	L00622063	Profesor 739	19242
+202311	Campus Ciudad de México	L00622063	Profesor 739	19243
+202311	Campus Ciudad de México	L00622086	Profesor 762	20470
+202311	Campus Ciudad de México	L00622086	Profesor 762	20473
+202311	Campus Ciudad de México	L00622111	Profesor 787	15596
+202311	Campus Ciudad de México	L00622126	Profesor 802	24425
+202311	Campus Ciudad de México	L00622146	Profesor 822	22665
+202311	Campus Ciudad de México	L00622146	Profesor 822	24425
+202311	Campus Ciudad de México	L00622147	Profesor 823	20476
+202311	Campus Ciudad de México	L00622170	Profesor 846	22600
+202311	Campus Ciudad de México	L00622200	Profesor 876	36248
+202311	Campus Ciudad de México	L00622200	Profesor 876	36249
+202311	Campus Ciudad de México	L00622203	Profesor 879	24413
+202311	Campus Ciudad de México	L00622203	Profesor 879	24414
+202311	Campus Ciudad de México	L00622216	Profesor 892	34636
+202311	Campus Ciudad de México	L00622216	Profesor 892	34637
+202311	Campus Ciudad de México	L00622220	Profesor 896	16351
+202311	Campus Ciudad de México	L00622225	Profesor 901	19242
+202311	Campus Ciudad de México	L00622225	Profesor 901	19243
+202311	Campus Ciudad de México	L00622234	Profesor 910	41865
+202311	Campus Ciudad de México	L00622263	Profesor 939	20422
+202311	Campus Ciudad de México	L00622263	Profesor 939	20423
+202311	Campus Ciudad de México	L00622301	Profesor 977	24413
+202311	Campus Ciudad de México	L00622301	Profesor 977	24414
+202311	Campus Ciudad de México	L00622318	Profesor 994	41315
+202311	Campus Ciudad de México	L00622379	Profesor 1055	20474
+202311	Campus Ciudad de México	L00622379	Profesor 1055	20476
+202311	Campus Ciudad de México	L00622387	Profesor 1063	24413
+202311	Campus Ciudad de México	L00622387	Profesor 1063	24414
+202311	Campus Ciudad de México	L00622423	Profesor 1099	20471
+202311	Campus Ciudad de México	L00622426	Profesor 1102	34643
+202311	Campus Ciudad de México	L00622426	Profesor 1102	34645
+202311	Campus Ciudad de México	L00622428	Profesor 1104	22665
+202311	Campus Ciudad de México	L00622428	Profesor 1104	24413
+202311	Campus Ciudad de México	L00622428	Profesor 1104	24414
+202311	Campus Ciudad de México	L00622433	Profesor 1109	14056
+202311	Campus Ciudad de México	L00622442	Profesor 1118	15440
+202311	Campus Ciudad de México	L00622442	Profesor 1118	41865
+202311	Campus Ciudad de México	L00622449	Profesor 1125	20422
+202311	Campus Ciudad de México	L00622453	Profesor 1129	20472
+202311	Campus Ciudad de México	L00622462	Profesor 1138	25853
+202311	Campus Ciudad de México	L00622462	Profesor 1138	25854
+202311	Campus Ciudad de México	L00622469	Profesor 1145	32699
+202311	Campus Ciudad de México	L00622469	Profesor 1145	32700
+202311	Campus Ciudad de México	L00622470	Profesor 1146	15440
+202311	Campus Ciudad de México	L00622470	Profesor 1146	41865
+202311	Campus Ciudad de México	L00622473	Profesor 1149	20420
+202311	Campus Ciudad de México	L00622473	Profesor 1149	20421
+202311	Campus Ciudad de México	L00622490	Profesor 1166	21153
+202311	Campus Ciudad de México	L00622497	Profesor 1173	34636
+202311	Campus Ciudad de México	L00622497	Profesor 1173	34637
+202311	Campus Ciudad de México	L00622498	Profesor 1174	22641
+202311	Campus Ciudad de México	L00622501	Profesor 1177	41446
+202311	Campus Ciudad de México	L00622504	Profesor 1180	24428
+202311	Campus Ciudad de México	L00622507	Profesor 1183	39926
+202311	Campus Ciudad de México	L00622518	Profesor 1194	41315
+202311	Campus Ciudad de México	L00622532	Profesor 1208	20423
+202311	Campus Ciudad de México	L00622532	Profesor 1208	20471
+202311	Campus Ciudad de México	L00622557	Profesor 1233	24425
+202311	Campus Ciudad de México	L00622558	Profesor 1234	24428
+202311	Campus Ciudad de México	L00622569	Profesor 1245	24428
+202311	Campus Ciudad de México	L00622585	Profesor 1261	22640
+202311	Campus Ciudad de México	L00622585	Profesor 1261	22641
+202311	Campus Ciudad de México	L00622585	Profesor 1261	22643
+202311	Campus Ciudad de México	L00622585	Profesor 1261	41446
+202311	Campus Ciudad de México	L00622606	Profesor 1282	34643
+202311	Campus Ciudad de México	L00622606	Profesor 1282	34645
+202311	Campus Ciudad de México	L00622607	Profesor 1283	15440
+202311	Campus Ciudad de México	L00622632	Profesor 1308	39926
+202311	Campus Ciudad de México	L00622634	Profesor 1310	32699
+202311	Campus Ciudad de México	L00622634	Profesor 1310	32700
+202311	Campus Ciudad de México	L00622642	Profesor 1318	34643
+202311	Campus Ciudad de México	L00622642	Profesor 1318	34645
+202311	Campus Ciudad Juárez	L00621660	Profesor 336	33058
+202311	Campus Ciudad Juárez	L00621753	Profesor 429	33058
+202311	Campus Ciudad Juárez	L00621987	Profesor 663	30252
+202311	Campus Ciudad Juárez	L00622081	Profesor 757	33058
+202311	Campus Ciudad Juárez	L00622088	Profesor 764	30252
+202311	Campus Ciudad Juárez	L00622302	Profesor 978	33058
+202311	Campus Ciudad Juárez	L00622568	Profesor 1244	30252
+202311	Campus Ciudad Obregón	L00621660	Profesor 336	39576
+202311	Campus Ciudad Obregón	L00621753	Profesor 429	39576
+202311	Campus Ciudad Obregón	L00622302	Profesor 978	39576
+202311	Campus Cuernavaca	L00621463	Profesor 139	15016
+202311	Campus Cuernavaca	L00621522	Profesor 198	24375
+202311	Campus Cuernavaca	L00621579	Profesor 255	22745
+202311	Campus Cuernavaca	L00621686	Profesor 362	22768
+202311	Campus Cuernavaca	L00621712	Profesor 388	15014
+202311	Campus Cuernavaca	L00621712	Profesor 388	34965
+202311	Campus Cuernavaca	L00621717	Profesor 393	34965
+202311	Campus Cuernavaca	L00621797	Profesor 473	24375
+202311	Campus Cuernavaca	L00621798	Profesor 474	22763
+202311	Campus Cuernavaca	L00621906	Profesor 582	24332
+202311	Campus Cuernavaca	L00621924	Profesor 600	15016
+202311	Campus Cuernavaca	L00621978	Profesor 654	22763
+202311	Campus Cuernavaca	L00622038	Profesor 714	22745
+202311	Campus Cuernavaca	L00622259	Profesor 935	22768
+202311	Campus Cuernavaca	L00622359	Profesor 1035	22763
+202311	Campus Cuernavaca	L00622359	Profesor 1035	22768
+202311	Campus Cuernavaca	L00622359	Profesor 1035	24332
+202311	Campus Cuernavaca	L00622571	Profesor 1247	24332
+202311	Campus Cuernavaca	L00622592	Profesor 1268	15015
+202311	Campus Cuernavaca	L00622608	Profesor 1284	15014
+202311	Campus Cuernavaca	L00622608	Profesor 1284	15015
+202311	Campus Cuernavaca	L00622610	Profesor 1286	22745
+202311	Campus Estado de México	L00621355	Profesor 31	23752
+202311	Campus Estado de México	L00621355	Profesor 31	23754
+202311	Campus Estado de México	L00621355	Profesor 31	24515
+202311	Campus Estado de México	L00621355	Profesor 31	24516
+202311	Campus Estado de México	L00621392	Profesor 68	24850
+202311	Campus Estado de México	L00621392	Profesor 68	24851
+202311	Campus Estado de México	L00621393	Profesor 69	24878
+202311	Campus Estado de México	L00621450	Profesor 126	24063
+202311	Campus Estado de México	L00621513	Profesor 189	24865
+202311	Campus Estado de México	L00621513	Profesor 189	24866
+202311	Campus Estado de México	L00621514	Profesor 190	23758
+202311	Campus Estado de México	L00621593	Profesor 269	24871
+202311	Campus Estado de México	L00621618	Profesor 294	23856
+202311	Campus Estado de México	L00621622	Profesor 298	24865
+202311	Campus Estado de México	L00621622	Profesor 298	24866
+202311	Campus Estado de México	L00621662	Profesor 338	24361
+202311	Campus Estado de México	L00621662	Profesor 338	24362
+202311	Campus Estado de México	L00621663	Profesor 339	24303
+202311	Campus Estado de México	L00621666	Profesor 342	24865
+202311	Campus Estado de México	L00621666	Profesor 342	24866
+202311	Campus Estado de México	L00621667	Profesor 343	24389
+202311	Campus Estado de México	L00621667	Profesor 343	24391
+202311	Campus Estado de México	L00621669	Profesor 345	24572
+202311	Campus Estado de México	L00621669	Profesor 345	24575
+202311	Campus Estado de México	L00621670	Profesor 346	24875
+202311	Campus Estado de México	L00621672	Profesor 348	24711
+202311	Campus Estado de México	L00621672	Profesor 348	24712
+202311	Campus Estado de México	L00621673	Profesor 349	23755
+202311	Campus Estado de México	L00621673	Profesor 349	23756
+202311	Campus Estado de México	L00621673	Profesor 349	24515
+202311	Campus Estado de México	L00621673	Profesor 349	24516
+202311	Campus Estado de México	L00621674	Profesor 350	23821
+202311	Campus Estado de México	L00621674	Profesor 350	23824
+202311	Campus Estado de México	L00621675	Profesor 351	24363
+202311	Campus Estado de México	L00621675	Profesor 351	24364
+202311	Campus Estado de México	L00621677	Profesor 353	24515
+202311	Campus Estado de México	L00621677	Profesor 353	24516
+202311	Campus Estado de México	L00621678	Profesor 354	23730
+202311	Campus Estado de México	L00621678	Profesor 354	23732
+202311	Campus Estado de México	L00621679	Profesor 355	24711
+202311	Campus Estado de México	L00621679	Profesor 355	24712
+202311	Campus Estado de México	L00621680	Profesor 356	24834
+202311	Campus Estado de México	L00621681	Profesor 357	23821
+202311	Campus Estado de México	L00621681	Profesor 357	23824
+202311	Campus Estado de México	L00621682	Profesor 358	24383
+202311	Campus Estado de México	L00621682	Profesor 358	24385
+202311	Campus Estado de México	L00621682	Profesor 358	24839
+202311	Campus Estado de México	L00621682	Profesor 358	24840
+202311	Campus Estado de México	L00621683	Profesor 359	24389
+202311	Campus Estado de México	L00621683	Profesor 359	24391
+202311	Campus Estado de México	L00621684	Profesor 360	24303
+202311	Campus Estado de México	L00621685	Profesor 361	24387
+202311	Campus Estado de México	L00621687	Profesor 363	24723
+202311	Campus Estado de México	L00621687	Profesor 363	24724
+202311	Campus Estado de México	L00621687	Profesor 363	24875
+202311	Campus Estado de México	L00621688	Profesor 364	23730
+202311	Campus Estado de México	L00621688	Profesor 364	23732
+202311	Campus Estado de México	L00621690	Profesor 366	23755
+202311	Campus Estado de México	L00621690	Profesor 366	23756
+202311	Campus Estado de México	L00621691	Profesor 367	24363
+202311	Campus Estado de México	L00621691	Profesor 367	24364
+202311	Campus Estado de México	L00621692	Profesor 368	23730
+202311	Campus Estado de México	L00621692	Profesor 368	23732
+202311	Campus Estado de México	L00621694	Profesor 370	23821
+202311	Campus Estado de México	L00621694	Profesor 370	23824
+202311	Campus Estado de México	L00621695	Profesor 371	23821
+202311	Campus Estado de México	L00621695	Profesor 371	23824
+202311	Campus Estado de México	L00621697	Profesor 373	24389
+202311	Campus Estado de México	L00621697	Profesor 373	24391
+202311	Campus Estado de México	L00621697	Profesor 373	41323
+202311	Campus Estado de México	L00621699	Profesor 375	24839
+202311	Campus Estado de México	L00621699	Profesor 375	24840
+202311	Campus Estado de México	L00621700	Profesor 376	24766
+202311	Campus Estado de México	L00621701	Profesor 377	23752
+202311	Campus Estado de México	L00621701	Profesor 377	23754
+202311	Campus Estado de México	L00621701	Profesor 377	23758
+202311	Campus Estado de México	L00621702	Profesor 378	24572
+202311	Campus Estado de México	L00621702	Profesor 378	24575
+202311	Campus Estado de México	L00621702	Profesor 378	24711
+202311	Campus Estado de México	L00621702	Profesor 378	24712
+202311	Campus Estado de México	L00621704	Profesor 380	24392
+202311	Campus Estado de México	L00621710	Profesor 386	24723
+202311	Campus Estado de México	L00621710	Profesor 386	24724
+202311	Campus Estado de México	L00621710	Profesor 386	24875
+202311	Campus Estado de México	L00621849	Profesor 525	24871
+202311	Campus Estado de México	L00621850	Profesor 526	23758
+202311	Campus Estado de México	L00621854	Profesor 530	24878
+202311	Campus Estado de México	L00621857	Profesor 533	24723
+202311	Campus Estado de México	L00621857	Profesor 533	24724
+202311	Campus Estado de México	L00621873	Profesor 549	23752
+202311	Campus Estado de México	L00621873	Profesor 549	23754
+202311	Campus Estado de México	L00621873	Profesor 549	24515
+202311	Campus Estado de México	L00621873	Profesor 549	24516
+202311	Campus Estado de México	L00621897	Profesor 573	24834
+202311	Campus Estado de México	L00621950	Profesor 626	24383
+202311	Campus Estado de México	L00621950	Profesor 626	24385
+202311	Campus Estado de México	L00621959	Profesor 635	23856
+202311	Campus Estado de México	L00622006	Profesor 682	24387
+202311	Campus Estado de México	L00622010	Profesor 686	24572
+202311	Campus Estado de México	L00622010	Profesor 686	24575
+202311	Campus Estado de México	L00622024	Profesor 700	24850
+202311	Campus Estado de México	L00622024	Profesor 700	24851
+202311	Campus Estado de México	L00622026	Profesor 702	23752
+202311	Campus Estado de México	L00622026	Profesor 702	23754
+202311	Campus Estado de México	L00622045	Profesor 721	41323
+202311	Campus Estado de México	L00622064	Profesor 740	24148
+202311	Campus Estado de México	L00622080	Profesor 756	23856
+202311	Campus Estado de México	L00622080	Profesor 756	24886
+202311	Campus Estado de México	L00622099	Profesor 775	24383
+202311	Campus Estado de México	L00622099	Profesor 775	24385
+202311	Campus Estado de México	L00622124	Profesor 800	24064
+202311	Campus Estado de México	L00622137	Profesor 813	24392
+202311	Campus Estado de México	L00622137	Profesor 813	24405
+202311	Campus Estado de México	L00622137	Profesor 813	24406
+202311	Campus Estado de México	L00622167	Profesor 843	24723
+202311	Campus Estado de México	L00622167	Profesor 843	24724
+202311	Campus Estado de México	L00622167	Profesor 843	24875
+202311	Campus Estado de México	L00622168	Profesor 844	24056
+202311	Campus Estado de México	L00622168	Profesor 844	24057
+202311	Campus Estado de México	L00622181	Profesor 857	24056
+202311	Campus Estado de México	L00622182	Profesor 858	23821
+202311	Campus Estado de México	L00622182	Profesor 858	23824
+202311	Campus Estado de México	L00622199	Profesor 875	24144
+202311	Campus Estado de México	L00622199	Profesor 875	24148
+202311	Campus Estado de México	L00622200	Profesor 876	24865
+202311	Campus Estado de México	L00622200	Profesor 876	24866
+202311	Campus Estado de México	L00622208	Profesor 884	23755
+202311	Campus Estado de México	L00622208	Profesor 884	23756
+202311	Campus Estado de México	L00622210	Profesor 886	24361
+202311	Campus Estado de México	L00622210	Profesor 886	24362
+202311	Campus Estado de México	L00622227	Profesor 903	24303
+202311	Campus Estado de México	L00622231	Profesor 907	24063
+202311	Campus Estado de México	L00622250	Profesor 926	24144
+202311	Campus Estado de México	L00622277	Profesor 953	24303
+202311	Campus Estado de México	L00622285	Profesor 961	24062
+202311	Campus Estado de México	L00622303	Profesor 979	24766
+202311	Campus Estado de México	L00622307	Profesor 983	41323
+202311	Campus Estado de México	L00622312	Profesor 988	23758
+202311	Campus Estado de México	L00622312	Profesor 988	24515
+202311	Campus Estado de México	L00622312	Profesor 988	24516
+202311	Campus Estado de México	L00622314	Profesor 990	24064
+202311	Campus Estado de México	L00622329	Profesor 1005	24383
+202311	Campus Estado de México	L00622329	Profesor 1005	24385
+202311	Campus Estado de México	L00622329	Profesor 1005	24387
+202311	Campus Estado de México	L00622329	Profesor 1005	24389
+202311	Campus Estado de México	L00622329	Profesor 1005	24391
+202311	Campus Estado de México	L00622335	Profesor 1011	24837
+202311	Campus Estado de México	L00622335	Profesor 1011	24838
+202311	Campus Estado de México	L00622336	Profesor 1012	24798
+202311	Campus Estado de México	L00622402	Profesor 1078	24057
+202311	Campus Estado de México	L00622432	Profesor 1108	24405
+202311	Campus Estado de México	L00622432	Profesor 1108	24406
+202311	Campus Estado de México	L00622435	Profesor 1111	24361
+202311	Campus Estado de México	L00622435	Profesor 1111	24362
+202311	Campus Estado de México	L00622435	Profesor 1111	24405
+202311	Campus Estado de México	L00622435	Profesor 1111	24406
+202311	Campus Estado de México	L00622458	Profesor 1134	24837
+202311	Campus Estado de México	L00622458	Profesor 1134	24838
+202311	Campus Estado de México	L00622460	Profesor 1136	24363
+202311	Campus Estado de México	L00622460	Profesor 1136	24364
+202311	Campus Estado de México	L00622499	Profesor 1175	24303
+202311	Campus Estado de México	L00622499	Profesor 1175	24361
+202311	Campus Estado de México	L00622499	Profesor 1175	24362
+202311	Campus Estado de México	L00622531	Profesor 1207	41323
+202311	Campus Estado de México	L00622547	Profesor 1223	24798
+202311	Campus Estado de México	L00622595	Profesor 1271	24392
+202311	Campus Estado de México	L00622597	Profesor 1273	24062
+202311	Campus Estado de México	L00622635	Profesor 1311	24886
+202311	Campus Guadalajara	L00621356	Profesor 32	41775
+202311	Campus Guadalajara	L00621391	Profesor 67	1597
+202311	Campus Guadalajara	L00621435	Profesor 111	41775
+202311	Campus Guadalajara	L00621446	Profesor 122	1385
+202311	Campus Guadalajara	L00621446	Profesor 122	1387
+202311	Campus Guadalajara	L00621446	Profesor 122	1389
+202311	Campus Guadalajara	L00621451	Profesor 127	4932
+202311	Campus Guadalajara	L00621462	Profesor 138	1329
+202311	Campus Guadalajara	L00621468	Profesor 144	40969
+202311	Campus Guadalajara	L00621508	Profesor 184	1366
+202311	Campus Guadalajara	L00621508	Profesor 184	1384
+202311	Campus Guadalajara	L00621508	Profesor 184	1385
+202311	Campus Guadalajara	L00621508	Profesor 184	1388
+202311	Campus Guadalajara	L00621508	Profesor 184	1393
+202311	Campus Guadalajara	L00621523	Profesor 199	1611
+202311	Campus Guadalajara	L00621533	Profesor 209	1365
+202311	Campus Guadalajara	L00621533	Profesor 209	1389
+202311	Campus Guadalajara	L00621533	Profesor 209	1390
+202311	Campus Guadalajara	L00621565	Profesor 241	1389
+202311	Campus Guadalajara	L00621575	Profesor 251	1394
+202311	Campus Guadalajara	L00621575	Profesor 251	1584
+202311	Campus Guadalajara	L00621575	Profesor 251	1607
+202311	Campus Guadalajara	L00621587	Profesor 263	41775
+202311	Campus Guadalajara	L00621590	Profesor 266	2307
+202311	Campus Guadalajara	L00621590	Profesor 266	3994
+202311	Campus Guadalajara	L00621590	Profesor 266	3995
+202311	Campus Guadalajara	L00621590	Profesor 266	4932
+202311	Campus Guadalajara	L00621590	Profesor 266	21693
+202311	Campus Guadalajara	L00621629	Profesor 305	41775
+202311	Campus Guadalajara	L00621639	Profesor 315	2307
+202311	Campus Guadalajara	L00621639	Profesor 315	4932
+202311	Campus Guadalajara	L00621654	Profesor 330	41775
+202311	Campus Guadalajara	L00621696	Profesor 372	41775
+202311	Campus Guadalajara	L00621714	Profesor 390	42457
+202311	Campus Guadalajara	L00621718	Profesor 394	1386
+202311	Campus Guadalajara	L00621719	Profesor 395	2295
+202311	Campus Guadalajara	L00621719	Profesor 395	10207
+202311	Campus Guadalajara	L00621721	Profesor 397	2295
+202311	Campus Guadalajara	L00621721	Profesor 397	10207
+202311	Campus Guadalajara	L00621722	Profesor 398	2293
+202311	Campus Guadalajara	L00621722	Profesor 398	2294
+202311	Campus Guadalajara	L00621724	Profesor 400	1586
+202311	Campus Guadalajara	L00621725	Profesor 401	1584
+202311	Campus Guadalajara	L00621725	Profesor 401	1605
+202311	Campus Guadalajara	L00621725	Profesor 401	1606
+202311	Campus Guadalajara	L00621725	Profesor 401	1607
+202311	Campus Guadalajara	L00621728	Profesor 404	2293
+202311	Campus Guadalajara	L00621729	Profesor 405	1605
+202311	Campus Guadalajara	L00621729	Profesor 405	1606
+202311	Campus Guadalajara	L00621729	Profesor 405	1607
+202311	Campus Guadalajara	L00621730	Profesor 406	1442
+202311	Campus Guadalajara	L00621731	Profesor 407	1611
+202311	Campus Guadalajara	L00621734	Profesor 410	1384
+202311	Campus Guadalajara	L00621735	Profesor 411	3971
+202311	Campus Guadalajara	L00621736	Profesor 412	1385
+202311	Campus Guadalajara	L00621736	Profesor 412	1393
+202311	Campus Guadalajara	L00621738	Profesor 414	1366
+202311	Campus Guadalajara	L00621738	Profesor 414	1384
+202311	Campus Guadalajara	L00621738	Profesor 414	1391
+202311	Campus Guadalajara	L00621739	Profesor 415	1597
+202311	Campus Guadalajara	L00621740	Profesor 416	1442
+202311	Campus Guadalajara	L00621741	Profesor 417	1412
+202311	Campus Guadalajara	L00621741	Profesor 417	1413
+202311	Campus Guadalajara	L00621742	Profesor 418	1442
+202311	Campus Guadalajara	L00621743	Profesor 419	1410
+202311	Campus Guadalajara	L00621744	Profesor 420	1605
+202311	Campus Guadalajara	L00621778	Profesor 454	15072
+202311	Campus Guadalajara	L00621778	Profesor 454	15073
+202311	Campus Guadalajara	L00621799	Profesor 475	3994
+202311	Campus Guadalajara	L00621799	Profesor 475	3995
+202311	Campus Guadalajara	L00621799	Profesor 475	21693
+202311	Campus Guadalajara	L00621801	Profesor 477	1606
+202311	Campus Guadalajara	L00621801	Profesor 477	1607
+202311	Campus Guadalajara	L00621802	Profesor 478	17921
+202311	Campus Guadalajara	L00621802	Profesor 478	17922
+202311	Campus Guadalajara	L00621803	Profesor 479	10207
+202311	Campus Guadalajara	L00621811	Profesor 487	41646
+202311	Campus Guadalajara	L00621811	Profesor 487	41647
+202311	Campus Guadalajara	L00621811	Profesor 487	41648
+202311	Campus Guadalajara	L00621817	Profesor 493	1391
+202311	Campus Guadalajara	L00621826	Profesor 502	3994
+202311	Campus Guadalajara	L00621826	Profesor 502	3995
+202311	Campus Guadalajara	L00621826	Profesor 502	21693
+202311	Campus Guadalajara	L00621856	Profesor 532	40968
+202311	Campus Guadalajara	L00621856	Profesor 532	41144
+202311	Campus Guadalajara	L00621870	Profesor 546	41775
+202311	Campus Guadalajara	L00621872	Profesor 548	1366
+202311	Campus Guadalajara	L00621874	Profesor 550	1410
+202311	Campus Guadalajara	L00621904	Profesor 580	37804
+202311	Campus Guadalajara	L00621904	Profesor 580	37805
+202311	Campus Guadalajara	L00621908	Profesor 584	1412
+202311	Campus Guadalajara	L00621908	Profesor 584	1413
+202311	Campus Guadalajara	L00621939	Profesor 615	1387
+202311	Campus Guadalajara	L00621942	Profesor 618	2295
+202311	Campus Guadalajara	L00621943	Profesor 619	1367
+202311	Campus Guadalajara	L00621973	Profesor 649	1367
+202311	Campus Guadalajara	L00621973	Profesor 649	42873
+202311	Campus Guadalajara	L00621976	Profesor 652	2307
+202311	Campus Guadalajara	L00621996	Profesor 672	15072
+202311	Campus Guadalajara	L00621996	Profesor 672	15073
+202311	Campus Guadalajara	L00622002	Profesor 678	41775
+202311	Campus Guadalajara	L00622018	Profesor 694	2293
+202311	Campus Guadalajara	L00622028	Profesor 704	1586
+202311	Campus Guadalajara	L00622028	Profesor 704	1587
+202311	Campus Guadalajara	L00622028	Profesor 704	1588
+202311	Campus Guadalajara	L00622032	Profesor 708	40968
+202311	Campus Guadalajara	L00622032	Profesor 708	41144
+202311	Campus Guadalajara	L00622034	Profesor 710	41775
+202311	Campus Guadalajara	L00622039	Profesor 715	1367
+202311	Campus Guadalajara	L00622039	Profesor 715	1388
+202311	Campus Guadalajara	L00622060	Profesor 736	1606
+202311	Campus Guadalajara	L00622060	Profesor 736	1607
+202311	Campus Guadalajara	L00622060	Profesor 736	21693
+202311	Campus Guadalajara	L00622070	Profesor 746	15185
+202311	Campus Guadalajara	L00622070	Profesor 746	15186
+202311	Campus Guadalajara	L00622076	Profesor 752	10201
+202311	Campus Guadalajara	L00622094	Profesor 770	42457
+202311	Campus Guadalajara	L00622102	Profesor 778	15072
+202311	Campus Guadalajara	L00622102	Profesor 778	15073
+202311	Campus Guadalajara	L00622108	Profesor 784	1328
+202311	Campus Guadalajara	L00622136	Profesor 812	1412
+202311	Campus Guadalajara	L00622136	Profesor 812	1413
+202311	Campus Guadalajara	L00622143	Profesor 819	1393
+202311	Campus Guadalajara	L00622159	Profesor 835	41151
+202311	Campus Guadalajara	L00622169	Profesor 845	1328
+202311	Campus Guadalajara	L00622169	Profesor 845	10201
+202311	Campus Guadalajara	L00622173	Profesor 849	1365
+202311	Campus Guadalajara	L00622179	Profesor 855	17921
+202311	Campus Guadalajara	L00622179	Profesor 855	17922
+202311	Campus Guadalajara	L00622185	Profesor 861	1597
+202311	Campus Guadalajara	L00622198	Profesor 874	1367
+202311	Campus Guadalajara	L00622198	Profesor 874	1390
+202311	Campus Guadalajara	L00622222	Profesor 898	1605
+202311	Campus Guadalajara	L00622222	Profesor 898	3994
+202311	Campus Guadalajara	L00622222	Profesor 898	3995
+202311	Campus Guadalajara	L00622222	Profesor 898	21693
+202311	Campus Guadalajara	L00622228	Profesor 904	1365
+202311	Campus Guadalajara	L00622228	Profesor 904	1366
+202311	Campus Guadalajara	L00622229	Profesor 905	1384
+202311	Campus Guadalajara	L00622229	Profesor 905	1386
+202311	Campus Guadalajara	L00622240	Profesor 916	1390
+202311	Campus Guadalajara	L00622243	Profesor 919	41646
+202311	Campus Guadalajara	L00622243	Profesor 919	41647
+202311	Campus Guadalajara	L00622243	Profesor 919	41648
+202311	Campus Guadalajara	L00622245	Profesor 921	1386
+202311	Campus Guadalajara	L00622245	Profesor 921	1394
+202311	Campus Guadalajara	L00622248	Profesor 924	1365
+202311	Campus Guadalajara	L00622248	Profesor 924	1385
+202311	Campus Guadalajara	L00622256	Profesor 932	41646
+202311	Campus Guadalajara	L00622275	Profesor 951	13768
+202311	Campus Guadalajara	L00622275	Profesor 951	13769
+202311	Campus Guadalajara	L00622275	Profesor 951	13770
+202311	Campus Guadalajara	L00622280	Profesor 956	1390
+202311	Campus Guadalajara	L00622286	Profesor 962	1394
+202311	Campus Guadalajara	L00622296	Profesor 972	2297
+202311	Campus Guadalajara	L00622305	Profesor 981	2295
+202311	Campus Guadalajara	L00622316	Profesor 992	15185
+202311	Campus Guadalajara	L00622316	Profesor 992	15186
+202311	Campus Guadalajara	L00622316	Profesor 992	42457
+202311	Campus Guadalajara	L00622317	Profesor 993	13768
+202311	Campus Guadalajara	L00622317	Profesor 993	13769
+202311	Campus Guadalajara	L00622317	Profesor 993	13770
+202311	Campus Guadalajara	L00622340	Profesor 1016	15185
+202311	Campus Guadalajara	L00622340	Profesor 1016	15186
+202311	Campus Guadalajara	L00622340	Profesor 1016	41151
+202311	Campus Guadalajara	L00622340	Profesor 1016	42457
+202311	Campus Guadalajara	L00622350	Profesor 1026	13768
+202311	Campus Guadalajara	L00622350	Profesor 1026	13769
+202311	Campus Guadalajara	L00622350	Profesor 1026	13770
+202311	Campus Guadalajara	L00622360	Profesor 1036	15185
+202311	Campus Guadalajara	L00622360	Profesor 1036	15186
+202311	Campus Guadalajara	L00622363	Profesor 1039	41646
+202311	Campus Guadalajara	L00622363	Profesor 1039	41647
+202311	Campus Guadalajara	L00622363	Profesor 1039	41648
+202311	Campus Guadalajara	L00622365	Profesor 1041	3994
+202311	Campus Guadalajara	L00622365	Profesor 1041	21693
+202311	Campus Guadalajara	L00622375	Profesor 1051	1585
+202311	Campus Guadalajara	L00622386	Profesor 1062	15185
+202311	Campus Guadalajara	L00622386	Profesor 1062	15186
+202311	Campus Guadalajara	L00622388	Profesor 1064	1611
+202311	Campus Guadalajara	L00622388	Profesor 1064	41646
+202311	Campus Guadalajara	L00622388	Profesor 1064	41647
+202311	Campus Guadalajara	L00622388	Profesor 1064	41648
+202311	Campus Guadalajara	L00622393	Profesor 1069	37804
+202311	Campus Guadalajara	L00622393	Profesor 1069	37805
+202311	Campus Guadalajara	L00622396	Profesor 1072	3971
+202311	Campus Guadalajara	L00622399	Profesor 1075	1387
+202311	Campus Guadalajara	L00622411	Profesor 1087	1391
+202311	Campus Guadalajara	L00622412	Profesor 1088	1394
+202311	Campus Guadalajara	L00622413	Profesor 1089	1609
+202311	Campus Guadalajara	L00622416	Profesor 1092	1605
+202311	Campus Guadalajara	L00622425	Profesor 1101	37804
+202311	Campus Guadalajara	L00622425	Profesor 1101	37805
+202311	Campus Guadalajara	L00622427	Profesor 1103	2297
+202311	Campus Guadalajara	L00622441	Profesor 1117	41647
+202311	Campus Guadalajara	L00622485	Profesor 1161	1586
+202311	Campus Guadalajara	L00622485	Profesor 1161	10237
+202311	Campus Guadalajara	L00622486	Profesor 1162	13774
+202311	Campus Guadalajara	L00622486	Profesor 1162	42873
+202311	Campus Guadalajara	L00622492	Profesor 1168	41646
+202311	Campus Guadalajara	L00622492	Profesor 1168	41647
+202311	Campus Guadalajara	L00622492	Profesor 1168	41648
+202311	Campus Guadalajara	L00622509	Profesor 1185	40968
+202311	Campus Guadalajara	L00622509	Profesor 1185	41144
+202311	Campus Guadalajara	L00622509	Profesor 1185	41151
+202311	Campus Guadalajara	L00622513	Profesor 1189	1393
+202311	Campus Guadalajara	L00622514	Profesor 1190	1609
+202311	Campus Guadalajara	L00622521	Profesor 1197	15072
+202311	Campus Guadalajara	L00622521	Profesor 1197	15073
+202311	Campus Guadalajara	L00622539	Profesor 1215	2294
+202311	Campus Guadalajara	L00622540	Profesor 1216	1585
+202311	Campus Guadalajara	L00622540	Profesor 1216	1587
+202311	Campus Guadalajara	L00622540	Profesor 1216	10237
+202311	Campus Guadalajara	L00622546	Profesor 1222	40969
+202311	Campus Guadalajara	L00622563	Profesor 1239	40969
+202311	Campus Guadalajara	L00622564	Profesor 1240	13770
+202311	Campus Guadalajara	L00622564	Profesor 1240	13775
+202311	Campus Guadalajara	L00622566	Profesor 1242	10201
+202311	Campus Guadalajara	L00622579	Profesor 1255	1329
+202311	Campus Guadalajara	L00622587	Profesor 1263	1588
+202311	Campus Guadalajara	L00622589	Profesor 1265	1365
+202311	Campus Guadalajara	L00622591	Profesor 1267	2297
+202311	Campus Guadalajara	L00622601	Profesor 1277	1366
+202311	Campus Guadalajara	L00622601	Profesor 1277	1367
+202311	Campus Guadalajara	L00622601	Profesor 1277	1386
+202311	Campus Guadalajara	L00622601	Profesor 1277	1388
+202311	Campus Guadalajara	L00622601	Profesor 1277	1391
+202311	Campus Guadalajara	L00622601	Profesor 1277	1584
+202311	Campus Guadalajara	L00622601	Profesor 1277	1587
+202311	Campus Guadalajara	L00622601	Profesor 1277	1588
+202311	Campus Guadalajara	L00622621	Profesor 1297	1329
+202311	Campus Guadalajara	L00622622	Profesor 1298	1388
+202311	Campus Guadalajara	L00622622	Profesor 1298	1389
+202311	Campus Guadalajara	L00622627	Profesor 1303	1442
+202311	Campus Guadalajara	L00622630	Profesor 1306	2294
+202311	Campus Guadalajara	L00622639	Profesor 1315	13774
+202311	Campus Guadalajara	L00622639	Profesor 1315	13775
+202311	Campus Guadalajara	L00622645	Profesor 1321	13768
+202311	Campus Guadalajara	L00622645	Profesor 1321	13769
+202311	Campus Hidalgo	L00621551	Profesor 227	4344
+202311	Campus Hidalgo	L00621551	Profesor 227	33855
+202311	Campus Hidalgo	L00621551	Profesor 227	38990
+202311	Campus Hidalgo	L00621555	Profesor 231	38990
+202311	Campus Hidalgo	L00621574	Profesor 250	4344
+202311	Campus Hidalgo	L00621574	Profesor 250	33855
+202311	Campus Hidalgo	L00621831	Profesor 507	33866
+202311	Campus Hidalgo	L00621977	Profesor 653	4595
+202311	Campus Hidalgo	L00622273	Profesor 949	4595
+202311	Campus Hidalgo	L00622339	Profesor 1015	38990
+202311	Campus Hidalgo	L00622378	Profesor 1054	4344
+202311	Campus Hidalgo	L00622378	Profesor 1054	33855
+202311	Campus Hidalgo	L00622421	Profesor 1097	38990
+202311	Campus Hidalgo	L00622487	Profesor 1163	33866
+202311	Campus León	L00621550	Profesor 226	21206
+202311	Campus León	L00621557	Profesor 233	18967
+202311	Campus León	L00621557	Profesor 233	18968
+202311	Campus León	L00621557	Profesor 233	19055
+202311	Campus León	L00621559	Profesor 235	19057
+202311	Campus León	L00621559	Profesor 235	41257
+202311	Campus León	L00621560	Profesor 236	21206
+202311	Campus León	L00621814	Profesor 490	19057
+202311	Campus León	L00621839	Profesor 515	41257
+202311	Campus León	L00621884	Profesor 560	40029
+202311	Campus León	L00621957	Profesor 633	41257
+202311	Campus León	L00621961	Profesor 637	18967
+202311	Campus León	L00621961	Profesor 637	18968
+202311	Campus León	L00621961	Profesor 637	19055
+202311	Campus León	L00621980	Profesor 656	40029
+202311	Campus León	L00622033	Profesor 709	37984
+202311	Campus León	L00622078	Profesor 754	18967
+202311	Campus León	L00622078	Profesor 754	18968
+202311	Campus León	L00622078	Profesor 754	19055
+202311	Campus León	L00622098	Profesor 774	20441
+202311	Campus León	L00622098	Profesor 774	37984
+202311	Campus León	L00622161	Profesor 837	21206
+202311	Campus León	L00622213	Profesor 889	40029
+202311	Campus León	L00622291	Profesor 967	20441
+202311	Campus León	L00622330	Profesor 1006	37984
+202311	Campus León	L00622347	Profesor 1023	19057
+202311	Campus León	L00622403	Profesor 1079	20441
+202311	Campus León	L00622403	Profesor 1079	21206
+202311	Campus León	L00622578	Profesor 1254	37984
+202311	Campus Monterrey	L00621326	Profesor 2	31744
+202311	Campus Monterrey	L00621327	Profesor 3	31679
+202311	Campus Monterrey	L00621328	Profesor 4	18460
+202311	Campus Monterrey	L00621330	Profesor 6	31756
+202311	Campus Monterrey	L00621331	Profesor 7	18446
+202311	Campus Monterrey	L00621334	Profesor 10	40940
+202311	Campus Monterrey	L00621335	Profesor 11	31742
+202311	Campus Monterrey	L00621335	Profesor 11	31757
+202311	Campus Monterrey	L00621336	Profesor 12	30430
+202311	Campus Monterrey	L00621336	Profesor 12	30442
+202311	Campus Monterrey	L00621338	Profesor 14	31518
+202311	Campus Monterrey	L00621338	Profesor 14	39815
+202311	Campus Monterrey	L00621339	Profesor 15	18470
+202311	Campus Monterrey	L00621340	Profesor 16	30436
+202311	Campus Monterrey	L00621342	Profesor 18	30460
+202311	Campus Monterrey	L00621343	Profesor 19	31637
+202311	Campus Monterrey	L00621343	Profesor 19	31639
+202311	Campus Monterrey	L00621346	Profesor 22	29358
+202311	Campus Monterrey	L00621348	Profesor 24	29338
+202311	Campus Monterrey	L00621348	Profesor 24	40830
+202311	Campus Monterrey	L00621349	Profesor 25	31636
+202311	Campus Monterrey	L00621350	Profesor 26	18453
+202311	Campus Monterrey	L00621350	Profesor 26	18461
+202311	Campus Monterrey	L00621350	Profesor 26	30441
+202311	Campus Monterrey	L00621351	Profesor 27	18465
+202311	Campus Monterrey	L00621351	Profesor 27	18468
+202311	Campus Monterrey	L00621352	Profesor 28	30430
+202311	Campus Monterrey	L00621358	Profesor 34	31679
+202311	Campus Monterrey	L00621360	Profesor 36	31272
+202311	Campus Monterrey	L00621362	Profesor 38	31519
+202311	Campus Monterrey	L00621363	Profesor 39	18453
+202311	Campus Monterrey	L00621364	Profesor 40	29350
+202311	Campus Monterrey	L00621364	Profesor 40	29352
+202311	Campus Monterrey	L00621364	Profesor 40	31590
+202311	Campus Monterrey	L00621365	Profesor 41	41856
+202311	Campus Monterrey	L00621366	Profesor 42	31534
+202311	Campus Monterrey	L00621367	Profesor 43	30471
+202311	Campus Monterrey	L00621369	Profesor 45	28198
+202311	Campus Monterrey	L00621371	Profesor 47	31520
+202311	Campus Monterrey	L00621372	Profesor 48	29351
+202311	Campus Monterrey	L00621372	Profesor 48	40696
+202311	Campus Monterrey	L00621373	Profesor 49	29227
+202311	Campus Monterrey	L00621373	Profesor 49	29350
+202311	Campus Monterrey	L00621373	Profesor 49	29359
+202311	Campus Monterrey	L00621373	Profesor 49	40830
+202311	Campus Monterrey	L00621374	Profesor 50	30916
+202311	Campus Monterrey	L00621375	Profesor 51	18452
+202311	Campus Monterrey	L00621375	Profesor 51	30430
+202311	Campus Monterrey	L00621376	Profesor 52	29352
+202311	Campus Monterrey	L00621379	Profesor 55	29359
+202311	Campus Monterrey	L00621380	Profesor 56	29346
+202311	Campus Monterrey	L00621381	Profesor 57	18467
+202311	Campus Monterrey	L00621384	Profesor 60	31591
+202311	Campus Monterrey	L00621385	Profesor 61	42507
+202311	Campus Monterrey	L00621386	Profesor 62	29408
+202311	Campus Monterrey	L00621386	Profesor 62	29420
+202311	Campus Monterrey	L00621388	Profesor 64	29345
+202311	Campus Monterrey	L00621396	Profesor 72	29429
+202311	Campus Monterrey	L00621396	Profesor 72	29430
+202311	Campus Monterrey	L00621396	Profesor 72	38639
+202311	Campus Monterrey	L00621398	Profesor 74	29423
+202311	Campus Monterrey	L00621399	Profesor 75	29344
+202311	Campus Monterrey	L00621401	Profesor 77	30472
+202311	Campus Monterrey	L00621402	Profesor 78	41856
+202311	Campus Monterrey	L00621403	Profesor 79	18470
+202311	Campus Monterrey	L00621404	Profesor 80	31176
+202311	Campus Monterrey	L00621404	Profesor 80	39837
+202311	Campus Monterrey	L00621405	Profesor 81	37320
+202311	Campus Monterrey	L00621406	Profesor 82	31512
+202311	Campus Monterrey	L00621406	Profesor 82	31513
+202311	Campus Monterrey	L00621408	Profesor 84	29295
+202311	Campus Monterrey	L00621408	Profesor 84	29298
+202311	Campus Monterrey	L00621408	Profesor 84	29339
+202311	Campus Monterrey	L00621408	Profesor 84	29349
+202311	Campus Monterrey	L00621408	Profesor 84	29351
+202311	Campus Monterrey	L00621412	Profesor 88	30436
+202311	Campus Monterrey	L00621412	Profesor 88	30460
+202311	Campus Monterrey	L00621413	Profesor 89	40441
+202311	Campus Monterrey	L00621414	Profesor 90	29426
+202311	Campus Monterrey	L00621414	Profesor 90	40441
+202311	Campus Monterrey	L00621414	Profesor 90	43143
+202311	Campus Monterrey	L00621416	Profesor 92	28180
+202311	Campus Monterrey	L00621416	Profesor 92	28185
+202311	Campus Monterrey	L00621416	Profesor 92	40477
+202311	Campus Monterrey	L00621418	Profesor 94	29295
+202311	Campus Monterrey	L00621418	Profesor 94	30918
+202311	Campus Monterrey	L00621418	Profesor 94	30921
+202311	Campus Monterrey	L00621419	Profesor 95	31634
+202311	Campus Monterrey	L00621420	Profesor 96	30900
+202311	Campus Monterrey	L00621420	Profesor 96	30901
+202311	Campus Monterrey	L00621420	Profesor 96	30902
+202311	Campus Monterrey	L00621420	Profesor 96	30917
+202311	Campus Monterrey	L00621423	Profesor 99	31759
+202311	Campus Monterrey	L00621424	Profesor 100	40696
+202311	Campus Monterrey	L00621425	Profesor 101	18466
+202311	Campus Monterrey	L00621425	Profesor 101	30424
+202311	Campus Monterrey	L00621425	Profesor 101	30441
+202311	Campus Monterrey	L00621427	Profesor 103	31535
+202311	Campus Monterrey	L00621427	Profesor 103	31536
+202311	Campus Monterrey	L00621427	Profesor 103	31582
+202311	Campus Monterrey	L00621428	Profesor 104	39882
+202311	Campus Monterrey	L00621429	Profesor 105	31271
+202311	Campus Monterrey	L00621431	Profesor 107	29294
+202311	Campus Monterrey	L00621431	Profesor 107	29297
+202311	Campus Monterrey	L00621432	Profesor 108	31531
+202311	Campus Monterrey	L00621434	Profesor 110	28180
+202311	Campus Monterrey	L00621436	Profesor 112	30912
+202311	Campus Monterrey	L00621437	Profesor 113	40440
+202311	Campus Monterrey	L00621437	Profesor 113	43143
+202311	Campus Monterrey	L00621439	Profesor 115	29352
+202311	Campus Monterrey	L00621441	Profesor 117	18463
+202311	Campus Monterrey	L00621442	Profesor 118	30900
+202311	Campus Monterrey	L00621442	Profesor 118	30901
+202311	Campus Monterrey	L00621442	Profesor 118	30902
+202311	Campus Monterrey	L00621442	Profesor 118	30903
+202311	Campus Monterrey	L00621442	Profesor 118	30916
+202311	Campus Monterrey	L00621442	Profesor 118	30917
+202311	Campus Monterrey	L00621442	Profesor 118	42507
+202311	Campus Monterrey	L00621443	Profesor 119	31699
+202311	Campus Monterrey	L00621445	Profesor 121	29344
+202311	Campus Monterrey	L00621445	Profesor 121	29346
+202311	Campus Monterrey	L00621448	Profesor 124	28223
+202311	Campus Monterrey	L00621448	Profesor 124	30915
+202311	Campus Monterrey	L00621449	Profesor 125	30913
+202311	Campus Monterrey	L00621449	Profesor 125	30914
+202311	Campus Monterrey	L00621456	Profesor 132	40709
+202311	Campus Monterrey	L00621459	Profesor 135	18460
+202311	Campus Monterrey	L00621459	Profesor 135	18463
+202311	Campus Monterrey	L00621460	Profesor 136	41856
+202311	Campus Monterrey	L00621461	Profesor 137	29405
+202311	Campus Monterrey	L00621461	Profesor 137	29406
+202311	Campus Monterrey	L00621465	Profesor 141	18463
+202311	Campus Monterrey	L00621467	Profesor 143	18460
+202311	Campus Monterrey	L00621469	Profesor 145	29404
+202311	Campus Monterrey	L00621470	Profesor 146	31590
+202311	Campus Monterrey	L00621472	Profesor 148	18457
+202311	Campus Monterrey	L00621474	Profesor 150	31742
+202311	Campus Monterrey	L00621474	Profesor 150	31744
+202311	Campus Monterrey	L00621474	Profesor 150	31759
+202311	Campus Monterrey	L00621474	Profesor 150	40940
+202311	Campus Monterrey	L00621475	Profesor 151	29341
+202311	Campus Monterrey	L00621475	Profesor 151	29358
+202311	Campus Monterrey	L00621475	Profesor 151	40696
+202311	Campus Monterrey	L00621475	Profesor 151	40830
+202311	Campus Monterrey	L00621476	Profesor 152	29340
+202311	Campus Monterrey	L00621476	Profesor 152	31533
+202311	Campus Monterrey	L00621476	Profesor 152	42991
+202311	Campus Monterrey	L00621477	Profesor 153	29345
+202311	Campus Monterrey	L00621478	Profesor 154	18455
+202311	Campus Monterrey	L00621479	Profesor 155	31757
+202311	Campus Monterrey	L00621480	Profesor 156	18457
+202311	Campus Monterrey	L00621488	Profesor 164	31518
+202311	Campus Monterrey	L00621490	Profesor 166	31639
+202311	Campus Monterrey	L00621498	Profesor 174	28198
+202311	Campus Monterrey	L00621535	Profesor 211	31528
+202311	Campus Monterrey	L00621536	Profesor 212	30441
+202311	Campus Monterrey	L00621539	Profesor 215	28270
+202311	Campus Monterrey	L00621539	Profesor 215	43109
+202311	Campus Monterrey	L00621543	Profesor 219	18465
+202311	Campus Monterrey	L00621545	Profesor 221	18453
+202311	Campus Monterrey	L00621548	Profesor 224	28203
+202311	Campus Monterrey	L00621548	Profesor 224	37145
+202311	Campus Monterrey	L00621548	Profesor 224	40840
+202311	Campus Monterrey	L00621548	Profesor 224	42507
+202311	Campus Monterrey	L00621605	Profesor 281	31634
+202311	Campus Monterrey	L00621605	Profesor 281	31756
+202311	Campus Monterrey	L00621706	Profesor 382	31698
+202311	Campus Monterrey	L00621706	Profesor 382	31699
+202311	Campus Monterrey	L00621716	Profesor 392	28269
+202311	Campus Monterrey	L00621716	Profesor 392	28272
+202311	Campus Monterrey	L00621726	Profesor 402	33680
+202311	Campus Monterrey	L00621733	Profesor 409	30833
+202311	Campus Monterrey	L00621745	Profesor 421	18454
+202311	Campus Monterrey	L00621745	Profesor 421	18466
+202311	Campus Monterrey	L00621745	Profesor 421	30424
+202311	Campus Monterrey	L00621745	Profesor 421	30425
+202311	Campus Monterrey	L00621745	Profesor 421	30426
+202311	Campus Monterrey	L00621745	Profesor 421	30442
+202311	Campus Monterrey	L00621746	Profesor 422	18462
+202311	Campus Monterrey	L00621754	Profesor 430	29345
+202311	Campus Monterrey	L00621754	Profesor 430	29347
+202311	Campus Monterrey	L00621754	Profesor 430	29354
+202311	Campus Monterrey	L00621755	Profesor 431	18469
+202311	Campus Monterrey	L00621757	Profesor 433	30461
+202311	Campus Monterrey	L00621758	Profesor 434	18465
+202311	Campus Monterrey	L00621759	Profesor 435	30472
+202311	Campus Monterrey	L00621761	Profesor 437	18452
+202311	Campus Monterrey	L00621762	Profesor 438	34371
+202311	Campus Monterrey	L00621765	Profesor 441	31759
+202311	Campus Monterrey	L00621766	Profesor 442	18469
+202311	Campus Monterrey	L00621771	Profesor 447	31582
+202311	Campus Monterrey	L00621776	Profesor 452	18469
+202311	Campus Monterrey	L00621789	Profesor 465	29291
+202311	Campus Monterrey	L00621789	Profesor 465	29347
+202311	Campus Monterrey	L00621792	Profesor 468	18467
+202311	Campus Monterrey	L00621793	Profesor 469	29227
+202311	Campus Monterrey	L00621793	Profesor 469	29228
+202311	Campus Monterrey	L00621793	Profesor 469	29347
+202311	Campus Monterrey	L00621793	Profesor 469	29349
+202311	Campus Monterrey	L00621793	Profesor 469	40830
+202311	Campus Monterrey	L00621794	Profesor 470	41250
+202311	Campus Monterrey	L00621807	Profesor 483	41250
+202311	Campus Monterrey	L00621808	Profesor 484	28203
+202311	Campus Monterrey	L00621808	Profesor 484	37145
+202311	Campus Monterrey	L00621808	Profesor 484	40840
+202311	Campus Monterrey	L00621810	Profesor 486	18452
+202311	Campus Monterrey	L00621810	Profesor 486	18458
+202311	Campus Monterrey	L00621810	Profesor 486	30441
+202311	Campus Monterrey	L00621813	Profesor 489	29227
+202311	Campus Monterrey	L00621813	Profesor 489	29228
+202311	Campus Monterrey	L00621815	Profesor 491	39781
+202311	Campus Monterrey	L00621816	Profesor 492	31758
+202311	Campus Monterrey	L00621819	Profesor 495	39781
+202311	Campus Monterrey	L00621822	Profesor 498	39837
+202311	Campus Monterrey	L00621822	Profesor 498	39882
+202311	Campus Monterrey	L00621825	Profesor 501	31745
+202311	Campus Monterrey	L00621827	Profesor 503	41933
+202311	Campus Monterrey	L00621834	Profesor 510	40940
+202311	Campus Monterrey	L00621835	Profesor 511	28270
+202311	Campus Monterrey	L00621835	Profesor 511	28271
+202311	Campus Monterrey	L00621838	Profesor 514	30900
+202311	Campus Monterrey	L00621838	Profesor 514	30902
+202311	Campus Monterrey	L00621862	Profesor 538	30915
+202311	Campus Monterrey	L00621863	Profesor 539	28185
+202311	Campus Monterrey	L00621863	Profesor 539	40477
+202311	Campus Monterrey	L00621865	Profesor 541	29297
+202311	Campus Monterrey	L00621865	Profesor 541	29353
+202311	Campus Monterrey	L00621865	Profesor 541	31583
+202311	Campus Monterrey	L00621866	Profesor 542	37325
+202311	Campus Monterrey	L00621867	Profesor 543	30913
+202311	Campus Monterrey	L00621867	Profesor 543	30914
+202311	Campus Monterrey	L00621868	Profesor 544	29295
+202311	Campus Monterrey	L00621868	Profesor 544	29298
+202311	Campus Monterrey	L00621868	Profesor 544	29341
+202311	Campus Monterrey	L00621868	Profesor 544	29346
+202311	Campus Monterrey	L00621868	Profesor 544	29355
+202311	Campus Monterrey	L00621869	Profesor 545	41765
+202311	Campus Monterrey	L00621875	Profesor 551	31698
+202311	Campus Monterrey	L00621877	Profesor 553	31745
+202311	Campus Monterrey	L00621878	Profesor 554	31758
+202311	Campus Monterrey	L00621879	Profesor 555	29358
+202311	Campus Monterrey	L00621880	Profesor 556	31744
+202311	Campus Monterrey	L00621880	Profesor 556	31755
+202311	Campus Monterrey	L00621881	Profesor 557	30461
+202311	Campus Monterrey	L00621882	Profesor 558	28198
+202311	Campus Monterrey	L00621885	Profesor 561	31674
+202311	Campus Monterrey	L00621885	Profesor 561	41933
+202311	Campus Monterrey	L00621887	Profesor 563	31744
+202311	Campus Monterrey	L00621903	Profesor 579	31756
+202311	Campus Monterrey	L00621903	Profesor 579	39815
+202311	Campus Monterrey	L00621903	Profesor 579	39816
+202311	Campus Monterrey	L00621905	Profesor 581	29404
+202311	Campus Monterrey	L00621905	Profesor 581	31534
+202311	Campus Monterrey	L00621910	Profesor 586	18453
+202311	Campus Monterrey	L00621910	Profesor 586	18456
+202311	Campus Monterrey	L00621911	Profesor 587	29296
+202311	Campus Monterrey	L00621911	Profesor 587	29299
+202311	Campus Monterrey	L00621916	Profesor 592	28269
+202311	Campus Monterrey	L00621916	Profesor 592	28272
+202311	Campus Monterrey	L00621917	Profesor 593	28223
+202311	Campus Monterrey	L00621917	Profesor 593	30918
+202311	Campus Monterrey	L00621919	Profesor 595	30903
+202311	Campus Monterrey	L00621920	Profesor 596	31755
+202311	Campus Monterrey	L00621922	Profesor 598	29293
+202311	Campus Monterrey	L00621922	Profesor 598	29294
+202311	Campus Monterrey	L00621922	Profesor 598	29296
+202311	Campus Monterrey	L00621923	Profesor 599	31634
+202311	Campus Monterrey	L00621925	Profesor 601	31634
+202311	Campus Monterrey	L00621925	Profesor 601	31636
+202311	Campus Monterrey	L00621926	Profesor 602	29426
+202311	Campus Monterrey	L00621927	Profesor 603	41765
+202311	Campus Monterrey	L00621932	Profesor 608	28203
+202311	Campus Monterrey	L00621932	Profesor 608	37145
+202311	Campus Monterrey	L00621932	Profesor 608	40840
+202311	Campus Monterrey	L00621938	Profesor 614	29355
+202311	Campus Monterrey	L00621938	Profesor 614	31170
+202311	Campus Monterrey	L00621945	Profesor 621	31591
+202311	Campus Monterrey	L00621947	Profesor 623	18467
+202311	Campus Monterrey	L00621947	Profesor 623	18468
+202311	Campus Monterrey	L00621949	Profesor 625	18462
+202311	Campus Monterrey	L00621951	Profesor 627	18458
+202311	Campus Monterrey	L00621951	Profesor 627	18461
+202311	Campus Monterrey	L00621951	Profesor 627	18462
+202311	Campus Monterrey	L00621952	Profesor 628	18456
+202311	Campus Monterrey	L00621952	Profesor 628	18458
+202311	Campus Monterrey	L00621954	Profesor 630	31533
+202311	Campus Monterrey	L00621954	Profesor 630	31637
+202311	Campus Monterrey	L00621956	Profesor 632	31635
+202311	Campus Monterrey	L00621956	Profesor 632	31637
+202311	Campus Monterrey	L00621956	Profesor 632	31639
+202311	Campus Monterrey	L00621964	Profesor 640	31744
+202311	Campus Monterrey	L00621965	Profesor 641	29353
+202311	Campus Monterrey	L00621967	Profesor 643	31157
+202311	Campus Monterrey	L00621970	Profesor 646	39781
+202311	Campus Monterrey	L00621971	Profesor 647	18455
+202311	Campus Monterrey	L00621971	Profesor 647	18459
+202311	Campus Monterrey	L00621974	Profesor 650	28185
+202311	Campus Monterrey	L00621974	Profesor 650	40477
+202311	Campus Monterrey	L00621981	Profesor 657	30448
+202311	Campus Monterrey	L00621982	Profesor 658	28203
+202311	Campus Monterrey	L00621982	Profesor 658	37145
+202311	Campus Monterrey	L00621982	Profesor 658	40840
+202311	Campus Monterrey	L00621984	Profesor 660	18470
+202311	Campus Monterrey	L00621985	Profesor 661	39816
+202311	Campus Monterrey	L00621988	Profesor 664	30833
+202311	Campus Monterrey	L00621989	Profesor 665	31528
+202311	Campus Monterrey	L00621990	Profesor 666	18453
+202311	Campus Monterrey	L00621990	Profesor 666	18458
+202311	Campus Monterrey	L00621990	Profesor 666	18461
+202311	Campus Monterrey	L00621990	Profesor 666	18462
+202311	Campus Monterrey	L00621997	Profesor 673	18446
+202311	Campus Monterrey	L00621998	Profesor 674	29356
+202311	Campus Monterrey	L00621999	Profesor 675	30911
+202311	Campus Monterrey	L00621999	Profesor 675	31674
+202311	Campus Monterrey	L00622008	Profesor 684	18466
+202311	Campus Monterrey	L00622013	Profesor 689	18457
+202311	Campus Monterrey	L00622014	Profesor 690	31745
+202311	Campus Monterrey	L00622017	Profesor 693	31520
+202311	Campus Monterrey	L00622019	Profesor 695	31755
+202311	Campus Monterrey	L00622020	Profesor 696	31271
+202311	Campus Monterrey	L00622021	Profesor 697	39839
+202311	Campus Monterrey	L00622021	Profesor 697	41875
+202311	Campus Monterrey	L00622022	Profesor 698	29292
+202311	Campus Monterrey	L00622023	Profesor 699	31527
+202311	Campus Monterrey	L00622023	Profesor 699	31529
+202311	Campus Monterrey	L00622042	Profesor 718	40709
+202311	Campus Monterrey	L00622052	Profesor 728	30901
+202311	Campus Monterrey	L00622052	Profesor 728	30903
+202311	Campus Monterrey	L00622052	Profesor 728	30919
+202311	Campus Monterrey	L00622052	Profesor 728	30920
+202311	Campus Monterrey	L00622053	Profesor 729	43109
+202311	Campus Monterrey	L00622057	Profesor 733	31583
+202311	Campus Monterrey	L00622058	Profesor 734	31527
+202311	Campus Monterrey	L00622058	Profesor 734	31530
+202311	Campus Monterrey	L00622058	Profesor 734	31531
+202311	Campus Monterrey	L00622059	Profesor 735	33679
+202311	Campus Monterrey	L00622065	Profesor 741	30901
+202311	Campus Monterrey	L00622065	Profesor 741	30903
+202311	Campus Monterrey	L00622065	Profesor 741	30920
+202311	Campus Monterrey	L00622073	Profesor 749	29338
+202311	Campus Monterrey	L00622073	Profesor 749	29342
+202311	Campus Monterrey	L00622073	Profesor 749	29348
+202311	Campus Monterrey	L00622075	Profesor 751	29356
+202311	Campus Monterrey	L00622075	Profesor 751	29406
+202311	Campus Monterrey	L00622079	Profesor 755	31745
+202311	Campus Monterrey	L00622079	Profesor 755	31760
+202311	Campus Monterrey	L00622082	Profesor 758	30424
+202311	Campus Monterrey	L00622082	Profesor 758	30459
+202311	Campus Monterrey	L00622093	Profesor 769	37320
+202311	Campus Monterrey	L00622095	Profesor 771	31596
+202311	Campus Monterrey	L00622097	Profesor 773	31757
+202311	Campus Monterrey	L00622097	Profesor 773	31758
+202311	Campus Monterrey	L00622102	Profesor 778	28180
+202311	Campus Monterrey	L00622106	Profesor 782	28203
+202311	Campus Monterrey	L00622106	Profesor 782	37145
+202311	Campus Monterrey	L00622106	Profesor 782	40840
+202311	Campus Monterrey	L00622107	Profesor 783	29350
+202311	Campus Monterrey	L00622107	Profesor 783	29353
+202311	Campus Monterrey	L00622109	Profesor 785	29358
+202311	Campus Monterrey	L00622109	Profesor 785	31529
+202311	Campus Monterrey	L00622109	Profesor 785	40830
+202311	Campus Monterrey	L00622113	Profesor 789	34371
+202311	Campus Monterrey	L00622113	Profesor 789	40670
+202311	Campus Monterrey	L00622114	Profesor 790	31512
+202311	Campus Monterrey	L00622114	Profesor 790	31513
+202311	Campus Monterrey	L00622116	Profesor 792	31635
+202311	Campus Monterrey	L00622117	Profesor 793	29348
+202311	Campus Monterrey	L00622119	Profesor 795	28271
+202311	Campus Monterrey	L00622126	Profesor 802	28203
+202311	Campus Monterrey	L00622126	Profesor 802	37145
+202311	Campus Monterrey	L00622126	Profesor 802	40840
+202311	Campus Monterrey	L00622133	Profesor 809	18455
+202311	Campus Monterrey	L00622133	Profesor 809	18459
+202311	Campus Monterrey	L00622133	Profesor 809	29339
+202311	Campus Monterrey	L00622133	Profesor 809	29340
+202311	Campus Monterrey	L00622133	Profesor 809	29354
+202311	Campus Monterrey	L00622133	Profesor 809	29404
+202311	Campus Monterrey	L00622133	Profesor 809	29406
+202311	Campus Monterrey	L00622133	Profesor 809	30425
+202311	Campus Monterrey	L00622133	Profesor 809	30426
+202311	Campus Monterrey	L00622138	Profesor 814	29429
+202311	Campus Monterrey	L00622140	Profesor 816	40670
+202311	Campus Monterrey	L00622141	Profesor 817	38639
+202311	Campus Monterrey	L00622149	Profesor 825	28257
+202311	Campus Monterrey	L00622151	Profesor 827	28198
+202311	Campus Monterrey	L00622153	Profesor 829	18460
+202311	Campus Monterrey	L00622157	Profesor 833	41875
+202311	Campus Monterrey	L00622162	Profesor 838	30447
+202311	Campus Monterrey	L00622162	Profesor 838	30459
+202311	Campus Monterrey	L00622162	Profesor 838	31535
+202311	Campus Monterrey	L00622174	Profesor 850	18461
+202311	Campus Monterrey	L00622175	Profesor 851	29354
+202311	Campus Monterrey	L00622175	Profesor 851	30425
+202311	Campus Monterrey	L00622175	Profesor 851	30426
+202311	Campus Monterrey	L00622177	Profesor 853	28270
+202311	Campus Monterrey	L00622177	Profesor 853	28271
+202311	Campus Monterrey	L00622178	Profesor 854	40670
+202311	Campus Monterrey	L00622187	Profesor 863	31519
+202311	Campus Monterrey	L00622189	Profesor 865	18461
+202311	Campus Monterrey	L00622189	Profesor 865	30447
+202311	Campus Monterrey	L00622194	Profesor 870	28257
+202311	Campus Monterrey	L00622194	Profesor 870	34371
+202311	Campus Monterrey	L00622206	Profesor 882	31760
+202311	Campus Monterrey	L00622207	Profesor 883	31698
+202311	Campus Monterrey	L00622207	Profesor 883	31699
+202311	Campus Monterrey	L00622215	Profesor 891	31512
+202311	Campus Monterrey	L00622215	Profesor 891	31513
+202311	Campus Monterrey	L00622221	Profesor 897	31744
+202311	Campus Monterrey	L00622223	Profesor 899	29356
+202311	Campus Monterrey	L00622232	Profesor 908	30919
+202311	Campus Monterrey	L00622232	Profesor 908	42507
+202311	Campus Monterrey	L00622233	Profesor 909	41250
+202311	Campus Monterrey	L00622241	Profesor 917	31176
+202311	Campus Monterrey	L00622242	Profesor 918	40559
+202311	Campus Monterrey	L00622242	Profesor 918	40630
+202311	Campus Monterrey	L00622247	Profesor 923	29347
+202311	Campus Monterrey	L00622247	Profesor 923	30830
+202311	Campus Monterrey	L00622249	Profesor 925	29291
+202311	Campus Monterrey	L00622249	Profesor 925	29349
+202311	Campus Monterrey	L00622254	Profesor 930	29430
+202311	Campus Monterrey	L00622258	Profesor 934	28198
+202311	Campus Monterrey	L00622258	Profesor 934	33679
+202311	Campus Monterrey	L00622266	Profesor 942	28185
+202311	Campus Monterrey	L00622266	Profesor 942	40477
+202311	Campus Monterrey	L00622270	Profesor 946	29227
+202311	Campus Monterrey	L00622270	Profesor 946	29228
+202311	Campus Monterrey	L00622271	Profesor 947	43022
+202311	Campus Monterrey	L00622272	Profesor 948	31171
+202311	Campus Monterrey	L00622284	Profesor 960	33680
+202311	Campus Monterrey	L00622284	Profesor 960	41856
+202311	Campus Monterrey	L00622289	Profesor 965	37321
+202311	Campus Monterrey	L00622295	Profesor 971	37325
+202311	Campus Monterrey	L00622300	Profesor 976	31157
+202311	Campus Monterrey	L00622304	Profesor 980	29293
+202311	Campus Monterrey	L00622304	Profesor 980	29338
+202311	Campus Monterrey	L00622304	Profesor 980	29342
+202311	Campus Monterrey	L00622304	Profesor 980	29348
+202311	Campus Monterrey	L00622309	Profesor 985	30830
+202311	Campus Monterrey	L00622310	Profesor 986	31272
+202311	Campus Monterrey	L00622313	Profesor 989	28180
+202311	Campus Monterrey	L00622315	Profesor 991	30912
+202311	Campus Monterrey	L00622315	Profesor 991	30921
+202311	Campus Monterrey	L00622315	Profesor 991	40696
+202311	Campus Monterrey	L00622325	Profesor 1001	29299
+202311	Campus Monterrey	L00622325	Profesor 1001	29344
+202311	Campus Monterrey	L00622325	Profesor 1001	29359
+202311	Campus Monterrey	L00622333	Profesor 1009	30472
+202311	Campus Monterrey	L00622341	Profesor 1017	40559
+202311	Campus Monterrey	L00622342	Profesor 1018	37322
+202311	Campus Monterrey	L00622342	Profesor 1018	39838
+202311	Campus Monterrey	L00622343	Profesor 1019	31170
+202311	Campus Monterrey	L00622345	Profesor 1021	29297
+202311	Campus Monterrey	L00622345	Profesor 1021	29357
+202311	Campus Monterrey	L00622348	Profesor 1024	30429
+202311	Campus Monterrey	L00622349	Profesor 1025	30429
+202311	Campus Monterrey	L00622352	Profesor 1028	39781
+202311	Campus Monterrey	L00622353	Profesor 1029	29345
+202311	Campus Monterrey	L00622366	Profesor 1042	29291
+202311	Campus Monterrey	L00622370	Profesor 1046	29420
+202311	Campus Monterrey	L00622371	Profesor 1047	29340
+202311	Campus Monterrey	L00622371	Profesor 1047	29429
+202311	Campus Monterrey	L00622371	Profesor 1047	38639
+202311	Campus Monterrey	L00622373	Profesor 1049	31760
+202311	Campus Monterrey	L00622374	Profesor 1050	31742
+202311	Campus Monterrey	L00622376	Profesor 1052	31639
+202311	Campus Monterrey	L00622377	Profesor 1053	29430
+202311	Campus Monterrey	L00622377	Profesor 1053	31171
+202311	Campus Monterrey	L00622381	Profesor 1057	31171
+202311	Campus Monterrey	L00622381	Profesor 1057	38639
+202311	Campus Monterrey	L00622383	Profesor 1059	18468
+202311	Campus Monterrey	L00622394	Profesor 1070	31635
+202311	Campus Monterrey	L00622408	Profesor 1084	31596
+202311	Campus Monterrey	L00622414	Profesor 1090	40559
+202311	Campus Monterrey	L00622414	Profesor 1090	40630
+202311	Campus Monterrey	L00622417	Profesor 1093	30428
+202311	Campus Monterrey	L00622422	Profesor 1098	29292
+202311	Campus Monterrey	L00622422	Profesor 1098	29299
+202311	Campus Monterrey	L00622422	Profesor 1098	31530
+202311	Campus Monterrey	L00622422	Profesor 1098	42991
+202311	Campus Monterrey	L00622424	Profesor 1100	29292
+202311	Campus Monterrey	L00622424	Profesor 1100	29293
+202311	Campus Monterrey	L00622431	Profesor 1107	30460
+202311	Campus Monterrey	L00622440	Profesor 1116	31170
+202311	Campus Monterrey	L00622445	Profesor 1121	29423
+202311	Campus Monterrey	L00622450	Profesor 1126	30447
+202311	Campus Monterrey	L00622450	Profesor 1126	30471
+202311	Campus Monterrey	L00622451	Profesor 1127	18454
+202311	Campus Monterrey	L00622452	Profesor 1128	29405
+202311	Campus Monterrey	L00622452	Profesor 1128	29408
+202311	Campus Monterrey	L00622459	Profesor 1135	29341
+202311	Campus Monterrey	L00622459	Profesor 1135	29355
+202311	Campus Monterrey	L00622465	Profesor 1141	31635
+202311	Campus Monterrey	L00622467	Profesor 1143	29357
+202311	Campus Monterrey	L00622467	Profesor 1143	31536
+202311	Campus Monterrey	L00622474	Profesor 1150	37321
+202311	Campus Monterrey	L00622481	Profesor 1157	40630
+202311	Campus Monterrey	L00622496	Profesor 1172	28269
+202311	Campus Monterrey	L00622496	Profesor 1172	28272
+202311	Campus Monterrey	L00622500	Profesor 1176	43022
+202311	Campus Monterrey	L00622511	Profesor 1187	31171
+202311	Campus Monterrey	L00622519	Profesor 1195	31636
+202311	Campus Monterrey	L00622519	Profesor 1195	31637
+202311	Campus Monterrey	L00622520	Profesor 1196	40440
+202311	Campus Monterrey	L00622523	Profesor 1199	31176
+202311	Campus Monterrey	L00622526	Profesor 1202	43109
+202311	Campus Monterrey	L00622529	Profesor 1205	37320
+202311	Campus Monterrey	L00622529	Profesor 1205	39883
+202311	Campus Monterrey	L00622538	Profesor 1214	33680
+202311	Campus Monterrey	L00622552	Profesor 1228	33679
+202311	Campus Monterrey	L00622555	Profesor 1231	29339
+202311	Campus Monterrey	L00622555	Profesor 1231	29342
+202311	Campus Monterrey	L00622556	Profesor 1232	28223
+202311	Campus Monterrey	L00622560	Profesor 1236	28257
+202311	Campus Monterrey	L00622560	Profesor 1236	40709
+202311	Campus Monterrey	L00622562	Profesor 1238	31698
+202311	Campus Monterrey	L00622562	Profesor 1238	31699
+202311	Campus Monterrey	L00622570	Profesor 1246	18454
+202311	Campus Monterrey	L00622570	Profesor 1246	18456
+202311	Campus Monterrey	L00622580	Profesor 1256	37322
+202311	Campus Monterrey	L00622580	Profesor 1256	39838
+202311	Campus Monterrey	L00622581	Profesor 1257	29351
+202311	Campus Monterrey	L00622582	Profesor 1258	29408
+202311	Campus Monterrey	L00622583	Profesor 1259	37322
+202311	Campus Monterrey	L00622583	Profesor 1259	39838
+202311	Campus Monterrey	L00622584	Profesor 1260	31742
+202311	Campus Monterrey	L00622584	Profesor 1260	40940
+202311	Campus Monterrey	L00622590	Profesor 1266	29228
+202311	Campus Monterrey	L00622590	Profesor 1266	29298
+202311	Campus Monterrey	L00622599	Profesor 1275	31512
+202311	Campus Monterrey	L00622599	Profesor 1275	31513
+202311	Campus Monterrey	L00622605	Profesor 1281	31636
+202311	Campus Monterrey	L00622613	Profesor 1289	30448
+202311	Campus Monterrey	L00622614	Profesor 1290	30459
+202311	Campus Monterrey	L00622616	Profesor 1292	37322
+202311	Campus Monterrey	L00622628	Profesor 1304	39781
+202311	Campus Monterrey	L00622633	Profesor 1309	39838
+202311	Campus Monterrey	L00622633	Profesor 1309	39883
+202311	Campus Monterrey	L00622637	Profesor 1313	18459
+202311	Campus Monterrey	L00622637	Profesor 1313	30428
+202311	Campus Monterrey	L00622641	Profesor 1317	41875
+202311	Campus Monterrey	L00622643	Profesor 1319	29227
+202311	Campus Monterrey	L00622643	Profesor 1319	29228
+202311	Campus Monterrey	L00622643	Profesor 1319	29357
+202311	Campus Monterrey	L00622644	Profesor 1320	39839
+202311	Campus Morelia	L00621530	Profesor 206	35727
+202311	Campus Morelia	L00621532	Profesor 208	40014
+202311	Campus Morelia	L00621715	Profesor 391	35080
+202311	Campus Morelia	L00621715	Profesor 391	35727
+202311	Campus Morelia	L00621715	Profesor 391	40010
+202311	Campus Morelia	L00621780	Profesor 456	40014
+202311	Campus Morelia	L00622041	Profesor 717	40014
+202311	Campus Morelia	L00622054	Profesor 730	35727
+202311	Campus Morelia	L00622101	Profesor 777	35080
+202311	Campus Morelia	L00622101	Profesor 777	40010
+202311	Campus Morelia	L00622121	Profesor 797	35080
+202311	Campus Morelia	L00622121	Profesor 797	40010
+202311	Campus Morelia	L00622128	Profesor 804	35727
+202311	Campus Morelia	L00622130	Profesor 806	35727
+202311	Campus Morelia	L00622279	Profesor 955	35727
+202311	Campus Morelia	L00622344	Profesor 1020	40014
+202311	Campus Nacional	L00621506	Profesor 182	19394
+202311	Campus Nacional	L00621510	Profesor 186	19394
+202311	Campus Nacional	L00621544	Profesor 220	20006
+202311	Campus Nacional	L00621544	Profesor 220	20010
+202311	Campus Nacional	L00621586	Profesor 262	19395
+202311	Campus Nacional	L00621586	Profesor 262	19396
+202311	Campus Nacional	L00621589	Profesor 265	43473
+202311	Campus Nacional	L00621664	Profesor 340	19396
+202311	Campus Nacional	L00621707	Profesor 383	43473
+202311	Campus Nacional	L00621711	Profesor 387	20007
+202311	Campus Nacional	L00621966	Profesor 642	20113
+202311	Campus Nacional	L00622006	Profesor 682	20104
+202311	Campus Nacional	L00622120	Profesor 796	20006
+202311	Campus Nacional	L00622120	Profesor 796	20007
+202311	Campus Nacional	L00622120	Profesor 796	20010
+202311	Campus Nacional	L00622135	Profesor 811	20113
+202311	Campus Nacional	L00622180	Profesor 856	20104
+202311	Campus Nacional	L00622183	Profesor 859	20113
+202311	Campus Nacional	L00622189	Profesor 865	19395
+202311	Campus Nacional	L00622355	Profesor 1031	20006
+202311	Campus Nacional	L00622355	Profesor 1031	20010
+202311	Campus Nacional	L00622385	Profesor 1061	20113
+202311	Campus Nacional	L00622456	Profesor 1132	20007
+202311	Campus Nacional	L00622456	Profesor 1132	20113
+202311	Campus Puebla	L00621332	Profesor 8	17450
+202311	Campus Puebla	L00621377	Profesor 53	16674
+202311	Campus Puebla	L00621387	Profesor 63	17546
+202311	Campus Puebla	L00621483	Profesor 159	15748
+202311	Campus Puebla	L00621484	Profesor 160	38767
+202311	Campus Puebla	L00621485	Profesor 161	15641
+202311	Campus Puebla	L00621485	Profesor 161	15642
+202311	Campus Puebla	L00621487	Profesor 163	17477
+202311	Campus Puebla	L00621487	Profesor 163	17492
+202311	Campus Puebla	L00621489	Profesor 165	15627
+202311	Campus Puebla	L00621489	Profesor 165	34778
+202311	Campus Puebla	L00621491	Profesor 167	15741
+202311	Campus Puebla	L00621492	Profesor 168	18573
+202311	Campus Puebla	L00621492	Profesor 168	18574
+202311	Campus Puebla	L00621492	Profesor 168	18586
+202311	Campus Puebla	L00621493	Profesor 169	15627
+202311	Campus Puebla	L00621493	Profesor 169	18573
+202311	Campus Puebla	L00621493	Profesor 169	18574
+202311	Campus Puebla	L00621493	Profesor 169	34778
+202311	Campus Puebla	L00621495	Profesor 171	17493
+202311	Campus Puebla	L00621496	Profesor 172	36001
+202311	Campus Puebla	L00621499	Profesor 175	17477
+202311	Campus Puebla	L00621500	Profesor 176	15645
+202311	Campus Puebla	L00621500	Profesor 176	15646
+202311	Campus Puebla	L00621511	Profesor 187	18559
+202311	Campus Puebla	L00621511	Profesor 187	18572
+202311	Campus Puebla	L00621564	Profesor 240	39169
+202311	Campus Puebla	L00621644	Profesor 320	17493
+202311	Campus Puebla	L00621659	Profesor 335	18571
+202311	Campus Puebla	L00621676	Profesor 352	17492
+202311	Campus Puebla	L00621752	Profesor 428	18573
+202311	Campus Puebla	L00621752	Profesor 428	18574
+202311	Campus Puebla	L00621764	Profesor 440	17450
+202311	Campus Puebla	L00621779	Profesor 455	36001
+202311	Campus Puebla	L00621800	Profesor 476	15741
+202311	Campus Puebla	L00621821	Profesor 497	18575
+202311	Campus Puebla	L00621900	Profesor 576	18572
+202311	Campus Puebla	L00621900	Profesor 576	18575
+202311	Campus Puebla	L00621931	Profesor 607	18559
+202311	Campus Puebla	L00621966	Profesor 642	18586
+202311	Campus Puebla	L00621968	Profesor 644	17477
+202311	Campus Puebla	L00621986	Profesor 662	38765
+202311	Campus Puebla	L00622048	Profesor 724	18575
+202311	Campus Puebla	L00622050	Profesor 726	18560
+202311	Campus Puebla	L00622062	Profesor 738	15645
+202311	Campus Puebla	L00622062	Profesor 738	15646
+202311	Campus Puebla	L00622105	Profesor 781	17526
+202311	Campus Puebla	L00622135	Profesor 811	18573
+202311	Campus Puebla	L00622135	Profesor 811	18574
+202311	Campus Puebla	L00622155	Profesor 831	17526
+202311	Campus Puebla	L00622164	Profesor 840	15627
+202311	Campus Puebla	L00622164	Profesor 840	17450
+202311	Campus Puebla	L00622164	Profesor 840	34778
+202311	Campus Puebla	L00622172	Profesor 848	15741
+202311	Campus Puebla	L00622180	Profesor 856	18560
+202311	Campus Puebla	L00622188	Profesor 864	15741
+202311	Campus Puebla	L00622188	Profesor 864	38767
+202311	Campus Puebla	L00622193	Profesor 869	15645
+202311	Campus Puebla	L00622193	Profesor 869	15646
+202311	Campus Puebla	L00622195	Profesor 871	16674
+202311	Campus Puebla	L00622226	Profesor 902	16680
+202311	Campus Puebla	L00622235	Profesor 911	18571
+202311	Campus Puebla	L00622251	Profesor 927	16681
+202311	Campus Puebla	L00622252	Profesor 928	15748
+202311	Campus Puebla	L00622283	Profesor 959	17546
+202311	Campus Puebla	L00622338	Profesor 1014	16676
+202311	Campus Puebla	L00622351	Profesor 1027	17493
+202311	Campus Puebla	L00622351	Profesor 1027	38767
+202311	Campus Puebla	L00622356	Profesor 1032	18559
+202311	Campus Puebla	L00622356	Profesor 1032	18560
+202311	Campus Puebla	L00622367	Profesor 1043	32933
+202311	Campus Puebla	L00622397	Profesor 1073	17450
+202311	Campus Puebla	L00622400	Profesor 1076	16681
+202311	Campus Puebla	L00622405	Profesor 1081	15641
+202311	Campus Puebla	L00622405	Profesor 1081	15642
+202311	Campus Puebla	L00622409	Profesor 1085	18571
+202311	Campus Puebla	L00622409	Profesor 1085	18572
+202311	Campus Puebla	L00622419	Profesor 1095	16674
+202311	Campus Puebla	L00622438	Profesor 1114	16680
+202311	Campus Puebla	L00622438	Profesor 1114	32933
+202311	Campus Puebla	L00622438	Profesor 1114	32935
+202311	Campus Puebla	L00622447	Profesor 1123	18586
+202311	Campus Puebla	L00622493	Profesor 1169	32934
+202311	Campus Puebla	L00622493	Profesor 1169	32935
+202311	Campus Puebla	L00622493	Profesor 1169	39169
+202311	Campus Puebla	L00622528	Profesor 1204	15641
+202311	Campus Puebla	L00622528	Profesor 1204	15642
+202311	Campus Puebla	L00622533	Profesor 1209	32934
+202311	Campus Puebla	L00622574	Profesor 1250	16676
+202311	Campus Puebla	L00622576	Profesor 1252	39169
+202311	Campus Puebla	L00622586	Profesor 1262	17492
+202311	Campus Puebla	L00622588	Profesor 1264	38765
+202311	Campus Puebla	L00622619	Profesor 1295	38765
+202311	Campus Querétaro	L00621417	Profesor 93	18162
+202311	Campus Querétaro	L00621507	Profesor 183	18223
+202311	Campus Querétaro	L00621507	Profesor 183	18224
+202311	Campus Querétaro	L00621507	Profesor 183	18225
+202311	Campus Querétaro	L00621521	Profesor 197	18210
+202311	Campus Querétaro	L00621521	Profesor 197	18211
+202311	Campus Querétaro	L00621525	Profesor 201	27752
+202311	Campus Querétaro	L00621525	Profesor 201	27753
+202311	Campus Querétaro	L00621556	Profesor 232	18322
+202311	Campus Querétaro	L00621556	Profesor 232	18323
+202311	Campus Querétaro	L00621561	Profesor 237	18127
+202311	Campus Querétaro	L00621561	Profesor 237	18128
+202311	Campus Querétaro	L00621564	Profesor 240	18299
+202311	Campus Querétaro	L00621568	Profesor 244	18274
+202311	Campus Querétaro	L00621569	Profesor 245	18054
+202311	Campus Querétaro	L00621569	Profesor 245	18056
+202311	Campus Querétaro	L00621573	Profesor 249	37188
+202311	Campus Querétaro	L00621578	Profesor 254	18322
+202311	Campus Querétaro	L00621578	Profesor 254	18323
+202311	Campus Querétaro	L00621580	Profesor 256	18322
+202311	Campus Querétaro	L00621580	Profesor 256	18323
+202311	Campus Querétaro	L00621581	Profesor 257	18083
+202311	Campus Querétaro	L00621581	Profesor 257	18084
+202311	Campus Querétaro	L00621582	Profesor 258	17958
+202311	Campus Querétaro	L00621582	Profesor 258	17959
+202311	Campus Querétaro	L00621584	Profesor 260	18230
+202311	Campus Querétaro	L00621584	Profesor 260	18231
+202311	Campus Querétaro	L00621645	Profesor 321	27752
+202311	Campus Querétaro	L00621707	Profesor 383	18055
+202311	Campus Querétaro	L00621707	Profesor 383	18056
+202311	Campus Querétaro	L00621707	Profesor 383	18058
+202311	Campus Querétaro	L00621708	Profesor 384	18305
+202311	Campus Querétaro	L00621708	Profesor 384	18306
+202311	Campus Querétaro	L00621708	Profesor 384	18307
+202311	Campus Querétaro	L00621709	Profesor 385	18305
+202311	Campus Querétaro	L00621709	Profesor 385	18306
+202311	Campus Querétaro	L00621709	Profesor 385	18307
+202311	Campus Querétaro	L00621709	Profesor 385	18336
+202311	Campus Querétaro	L00621772	Profesor 448	18057
+202311	Campus Querétaro	L00621772	Profesor 448	18059
+202311	Campus Querétaro	L00621786	Profesor 462	18274
+202311	Campus Querétaro	L00621806	Profesor 482	18031
+202311	Campus Querétaro	L00621806	Profesor 482	18033
+202311	Campus Querétaro	L00621812	Profesor 488	27753
+202311	Campus Querétaro	L00621829	Profesor 505	18013
+202311	Campus Querétaro	L00621829	Profesor 505	18014
+202311	Campus Querétaro	L00621829	Profesor 505	18015
+202311	Campus Querétaro	L00621853	Profesor 529	27753
+202311	Campus Querétaro	L00621859	Profesor 535	18054
+202311	Campus Querétaro	L00621859	Profesor 535	18055
+202311	Campus Querétaro	L00621859	Profesor 535	18057
+202311	Campus Querétaro	L00621888	Profesor 564	18127
+202311	Campus Querétaro	L00621888	Profesor 564	18128
+202311	Campus Querétaro	L00621893	Profesor 569	18223
+202311	Campus Querétaro	L00621893	Profesor 569	18224
+202311	Campus Querétaro	L00621893	Profesor 569	18225
+202311	Campus Querétaro	L00621893	Profesor 569	18230
+202311	Campus Querétaro	L00621893	Profesor 569	18231
+202311	Campus Querétaro	L00621894	Profesor 570	18322
+202311	Campus Querétaro	L00621894	Profesor 570	18323
+202311	Campus Querétaro	L00621913	Profesor 589	17964
+202311	Campus Querétaro	L00621913	Profesor 589	17966
+202311	Campus Querétaro	L00621915	Profesor 591	27752
+202311	Campus Querétaro	L00621918	Profesor 594	17965
+202311	Campus Querétaro	L00621918	Profesor 594	17967
+202311	Campus Querétaro	L00621933	Profesor 609	18127
+202311	Campus Querétaro	L00621933	Profesor 609	18128
+202311	Campus Querétaro	L00621936	Profesor 612	18033
+202311	Campus Querétaro	L00621936	Profesor 612	18034
+202311	Campus Querétaro	L00621937	Profesor 613	18334
+202311	Campus Querétaro	L00621937	Profesor 613	18335
+202311	Campus Querétaro	L00621948	Profesor 624	18008
+202311	Campus Querétaro	L00621958	Profesor 634	27752
+202311	Campus Querétaro	L00621958	Profesor 634	27753
+202311	Campus Querétaro	L00621972	Profesor 648	18322
+202311	Campus Querétaro	L00621972	Profesor 648	18323
+202311	Campus Querétaro	L00621991	Profesor 667	18322
+202311	Campus Querétaro	L00621991	Profesor 667	18323
+202311	Campus Querétaro	L00621993	Profesor 669	17958
+202311	Campus Querétaro	L00622004	Profesor 680	17964
+202311	Campus Querétaro	L00622015	Profesor 691	18127
+202311	Campus Querétaro	L00622015	Profesor 691	18128
+202311	Campus Querétaro	L00622030	Profesor 706	17957
+202311	Campus Querétaro	L00622037	Profesor 713	18034
+202311	Campus Querétaro	L00622068	Profesor 744	18163
+202311	Campus Querétaro	L00622071	Profesor 747	18032
+202311	Campus Querétaro	L00622071	Profesor 747	18057
+202311	Campus Querétaro	L00622071	Profesor 747	18059
+202311	Campus Querétaro	L00622084	Profesor 760	37188
+202311	Campus Querétaro	L00622087	Profesor 763	18334
+202311	Campus Querétaro	L00622087	Profesor 763	18335
+202311	Campus Querétaro	L00622091	Profesor 767	18014
+202311	Campus Querétaro	L00622112	Profesor 788	18031
+202311	Campus Querétaro	L00622127	Profesor 803	36312
+202311	Campus Querétaro	L00622132	Profesor 808	18033
+202311	Campus Querétaro	L00622139	Profesor 815	18127
+202311	Campus Querétaro	L00622148	Profesor 824	17964
+202311	Campus Querétaro	L00622148	Profesor 824	17966
+202311	Campus Querétaro	L00622160	Profesor 836	18031
+202311	Campus Querétaro	L00622171	Profesor 847	16787
+202311	Campus Querétaro	L00622176	Profesor 852	18210
+202311	Campus Querétaro	L00622176	Profesor 852	18211
+202311	Campus Querétaro	L00622191	Profesor 867	18334
+202311	Campus Querétaro	L00622191	Profesor 867	18335
+202311	Campus Querétaro	L00622192	Profesor 868	17959
+202311	Campus Querétaro	L00622197	Profesor 873	18303
+202311	Campus Querétaro	L00622201	Profesor 877	18054
+202311	Campus Querétaro	L00622204	Profesor 880	18322
+202311	Campus Querétaro	L00622204	Profesor 880	18323
+202311	Campus Querétaro	L00622214	Profesor 890	18008
+202311	Campus Querétaro	L00622217	Profesor 893	18127
+202311	Campus Querétaro	L00622230	Profesor 906	18057
+202311	Campus Querétaro	L00622230	Profesor 906	18059
+202311	Campus Querétaro	L00622236	Profesor 912	18230
+202311	Campus Querétaro	L00622236	Profesor 912	18231
+202311	Campus Querétaro	L00622244	Profesor 920	18322
+202311	Campus Querétaro	L00622244	Profesor 920	18323
+202311	Campus Querétaro	L00622253	Profesor 929	16787
+202311	Campus Querétaro	L00622261	Profesor 937	18083
+202311	Campus Querétaro	L00622261	Profesor 937	18084
+202311	Campus Querétaro	L00622269	Profesor 945	18210
+202311	Campus Querétaro	L00622269	Profesor 945	18211
+202311	Campus Querétaro	L00622326	Profesor 1002	18303
+202311	Campus Querétaro	L00622331	Profesor 1007	18031
+202311	Campus Querétaro	L00622331	Profesor 1007	18032
+202311	Campus Querétaro	L00622331	Profesor 1007	18033
+202311	Campus Querétaro	L00622331	Profesor 1007	18034
+202311	Campus Querétaro	L00622331	Profesor 1007	18305
+202311	Campus Querétaro	L00622331	Profesor 1007	18306
+202311	Campus Querétaro	L00622331	Profesor 1007	18307
+202311	Campus Querétaro	L00622369	Profesor 1045	18032
+202311	Campus Querétaro	L00622372	Profesor 1048	18055
+202311	Campus Querétaro	L00622372	Profesor 1048	18058
+202311	Campus Querétaro	L00622382	Profesor 1058	18322
+202311	Campus Querétaro	L00622382	Profesor 1058	18323
+202311	Campus Querétaro	L00622389	Profesor 1065	18032
+202311	Campus Querétaro	L00622401	Profesor 1077	18054
+202311	Campus Querétaro	L00622401	Profesor 1077	18055
+202311	Campus Querétaro	L00622401	Profesor 1077	18056
+202311	Campus Querétaro	L00622401	Profesor 1077	18059
+202311	Campus Querétaro	L00622429	Profesor 1105	18210
+202311	Campus Querétaro	L00622429	Profesor 1105	18211
+202311	Campus Querétaro	L00622430	Profesor 1106	37188
+202311	Campus Querétaro	L00622436	Profesor 1112	18274
+202311	Campus Querétaro	L00622437	Profesor 1113	18034
+202311	Campus Querétaro	L00622457	Profesor 1133	18223
+202311	Campus Querétaro	L00622475	Profesor 1151	17966
+202311	Campus Querétaro	L00622493	Profesor 1169	18299
+202311	Campus Querétaro	L00622502	Profesor 1178	36312
+202311	Campus Querétaro	L00622505	Profesor 1181	17928
+202311	Campus Querétaro	L00622506	Profesor 1182	18303
+202311	Campus Querétaro	L00622508	Profesor 1184	17928
+202311	Campus Querétaro	L00622516	Profesor 1192	18056
+202311	Campus Querétaro	L00622516	Profesor 1192	18058
+202311	Campus Querétaro	L00622530	Profesor 1206	17965
+202311	Campus Querétaro	L00622530	Profesor 1206	17967
+202311	Campus Querétaro	L00622541	Profesor 1217	18013
+202311	Campus Querétaro	L00622541	Profesor 1217	18014
+202311	Campus Querétaro	L00622541	Profesor 1217	18015
+202311	Campus Querétaro	L00622544	Profesor 1220	17957
+202311	Campus Querétaro	L00622545	Profesor 1221	17957
+202311	Campus Querétaro	L00622545	Profesor 1221	17959
+202311	Campus Querétaro	L00622549	Profesor 1225	17928
+202311	Campus Querétaro	L00622550	Profesor 1226	17965
+202311	Campus Querétaro	L00622550	Profesor 1226	17967
+202311	Campus Querétaro	L00622551	Profesor 1227	18083
+202311	Campus Querétaro	L00622551	Profesor 1227	18084
+202311	Campus Querétaro	L00622553	Profesor 1229	18013
+202311	Campus Querétaro	L00622567	Profesor 1243	17958
+202311	Campus Querétaro	L00622572	Profesor 1248	18223
+202311	Campus Querétaro	L00622572	Profesor 1248	18224
+202311	Campus Querétaro	L00622576	Profesor 1252	18299
+202311	Campus Querétaro	L00622576	Profesor 1252	18334
+202311	Campus Querétaro	L00622576	Profesor 1252	18335
+202311	Campus Querétaro	L00622602	Profesor 1278	18162
+202311	Campus Querétaro	L00622602	Profesor 1278	18163
+202311	Campus Querétaro	L00622603	Profesor 1279	18162
+202311	Campus Querétaro	L00622603	Profesor 1279	18163
+202311	Campus Querétaro	L00622609	Profesor 1285	18015
+202311	Campus Querétaro	L00622623	Profesor 1299	18210
+202311	Campus Querétaro	L00622623	Profesor 1299	18211
+202311	Campus Querétaro	L00622623	Profesor 1299	18230
+202311	Campus Querétaro	L00622623	Profesor 1299	18231
+202311	Campus Querétaro	L00622625	Profesor 1301	18225
+202311	Campus Querétaro	L00622626	Profesor 1302	18225
+202311	Campus Querétaro	L00622629	Profesor 1305	18224
+202311	Campus Querétaro	L00622640	Profesor 1316	18230
+202311	Campus Querétaro	L00622640	Profesor 1316	18231
+202311	Campus Saltillo	L00621390	Profesor 66	27494
+202311	Campus Saltillo	L00621390	Profesor 66	28774
+202311	Campus Saltillo	L00621537	Profesor 213	28774
+202311	Campus Saltillo	L00621538	Profesor 214	27494
+202311	Campus Saltillo	L00621540	Profesor 216	27493
+202311	Campus Saltillo	L00621547	Profesor 223	28924
+202311	Campus Saltillo	L00621773	Profesor 449	27494
+202311	Campus Saltillo	L00621809	Profesor 485	27493
+202311	Campus Saltillo	L00621898	Profesor 574	27494
+202311	Campus Saltillo	L00621941	Profesor 617	28966
+202311	Campus Saltillo	L00621941	Profesor 617	28967
+202311	Campus Saltillo	L00621941	Profesor 617	28968
+202311	Campus Saltillo	L00622036	Profesor 712	27493
+202311	Campus Saltillo	L00622083	Profesor 759	27493
+202311	Campus Saltillo	L00622104	Profesor 780	27493
+202311	Campus Saltillo	L00622104	Profesor 780	28924
+202311	Campus Saltillo	L00622144	Profesor 820	27494
+202311	Campus Saltillo	L00622165	Profesor 841	27493
+202311	Campus Saltillo	L00622255	Profesor 931	28774
+202311	Campus Saltillo	L00622255	Profesor 931	28966
+202311	Campus Saltillo	L00622321	Profesor 997	28967
+202311	Campus Saltillo	L00622321	Profesor 997	28968
+202311	Campus Saltillo	L00622510	Profesor 1186	28912
+202311	Campus Saltillo	L00622524	Profesor 1200	28774
+202311	Campus Saltillo	L00622524	Profesor 1200	28966
+202311	Campus Saltillo	L00622524	Profesor 1200	28967
+202311	Campus Saltillo	L00622524	Profesor 1200	28968
+202311	Campus Saltillo	L00622527	Profesor 1203	28912
+202311	Campus Saltillo	L00622565	Profesor 1241	28912
+202311	Campus Saltillo	L00622617	Profesor 1293	27493
+202311	Campus Saltillo	L00622624	Profesor 1300	28912
+202311	Campus San Luis Potosí	L00621583	Profesor 259	27228
+202311	Campus San Luis Potosí	L00621585	Profesor 261	27228
+202311	Campus San Luis Potosí	L00621588	Profesor 264	22205
+202311	Campus San Luis Potosí	L00621588	Profesor 264	35967
+202311	Campus San Luis Potosí	L00621651	Profesor 327	22184
+202311	Campus San Luis Potosí	L00621833	Profesor 509	35952
+202311	Campus San Luis Potosí	L00621840	Profesor 516	35952
+202311	Campus San Luis Potosí	L00621840	Profesor 516	35967
+202311	Campus San Luis Potosí	L00621896	Profesor 572	35952
+202311	Campus San Luis Potosí	L00621896	Profesor 572	35953
+202311	Campus San Luis Potosí	L00621896	Profesor 572	35954
+202311	Campus San Luis Potosí	L00621963	Profesor 639	35954
+202311	Campus San Luis Potosí	L00621979	Profesor 655	22205
+202311	Campus San Luis Potosí	L00622016	Profesor 692	27228
+202311	Campus San Luis Potosí	L00622027	Profesor 703	35953
+202311	Campus San Luis Potosí	L00622027	Profesor 703	35954
+202311	Campus San Luis Potosí	L00622085	Profesor 761	35952
+202311	Campus San Luis Potosí	L00622085	Profesor 761	35953
+202311	Campus San Luis Potosí	L00622085	Profesor 761	35954
+202311	Campus San Luis Potosí	L00622205	Profesor 881	22184
+202311	Campus San Luis Potosí	L00622264	Profesor 940	22205
+202311	Campus San Luis Potosí	L00622264	Profesor 940	35967
+202311	Campus San Luis Potosí	L00622332	Profesor 1008	35952
+202311	Campus San Luis Potosí	L00622332	Profesor 1008	35953
+202311	Campus San Luis Potosí	L00622361	Profesor 1037	22184
+202311	Campus Santa Fe	L00621337	Profesor 13	463
+202311	Campus Santa Fe	L00621383	Profesor 59	1199
+202311	Campus Santa Fe	L00621393	Profesor 69	33816
+202311	Campus Santa Fe	L00621452	Profesor 128	530
+202311	Campus Santa Fe	L00621452	Profesor 128	2036
+202311	Campus Santa Fe	L00621455	Profesor 131	2035
+202311	Campus Santa Fe	L00621497	Profesor 173	38882
+202311	Campus Santa Fe	L00621503	Profesor 179	33928
+202311	Campus Santa Fe	L00621512	Profesor 188	33806
+202311	Campus Santa Fe	L00621512	Profesor 188	33807
+202311	Campus Santa Fe	L00621512	Profesor 188	33932
+202311	Campus Santa Fe	L00621515	Profesor 191	563
+202311	Campus Santa Fe	L00621515	Profesor 191	569
+202311	Campus Santa Fe	L00621516	Profesor 192	567
+202311	Campus Santa Fe	L00621517	Profesor 193	1195
+202311	Campus Santa Fe	L00621517	Profesor 193	1196
+202311	Campus Santa Fe	L00621518	Profesor 194	441
+202311	Campus Santa Fe	L00621524	Profesor 200	34913
+202311	Campus Santa Fe	L00621526	Profesor 202	34913
+202311	Campus Santa Fe	L00621529	Profesor 205	1197
+202311	Campus Santa Fe	L00621531	Profesor 207	464
+202311	Campus Santa Fe	L00621552	Profesor 228	464
+202311	Campus Santa Fe	L00621567	Profesor 243	1879
+202311	Campus Santa Fe	L00621592	Profesor 268	440
+202311	Campus Santa Fe	L00621592	Profesor 268	464
+202311	Campus Santa Fe	L00621595	Profesor 271	1179
+202311	Campus Santa Fe	L00621598	Profesor 274	1179
+202311	Campus Santa Fe	L00621612	Profesor 288	33806
+202311	Campus Santa Fe	L00621612	Profesor 288	33807
+202311	Campus Santa Fe	L00621615	Profesor 291	1179
+202311	Campus Santa Fe	L00621619	Profesor 295	1191
+202311	Campus Santa Fe	L00621619	Profesor 295	1192
+202311	Campus Santa Fe	L00621619	Profesor 295	2035
+202311	Campus Santa Fe	L00621647	Profesor 323	33886
+202311	Campus Santa Fe	L00621647	Profesor 323	39179
+202311	Campus Santa Fe	L00621650	Profesor 326	537
+202311	Campus Santa Fe	L00621650	Profesor 326	567
+202311	Campus Santa Fe	L00621655	Profesor 331	33932
+202311	Campus Santa Fe	L00621661	Profesor 337	463
+202311	Campus Santa Fe	L00621698	Profesor 374	540
+202311	Campus Santa Fe	L00621703	Profesor 379	34913
+202311	Campus Santa Fe	L00621703	Profesor 379	38882
+202311	Campus Santa Fe	L00621783	Profesor 459	1191
+202311	Campus Santa Fe	L00621783	Profesor 459	1192
+202311	Campus Santa Fe	L00621784	Profesor 460	441
+202311	Campus Santa Fe	L00621788	Profesor 464	531
+202311	Campus Santa Fe	L00621796	Profesor 472	33932
+202311	Campus Santa Fe	L00621796	Profesor 472	39016
+202311	Campus Santa Fe	L00621837	Profesor 513	1879
+202311	Campus Santa Fe	L00621837	Profesor 513	2037
+202311	Campus Santa Fe	L00621842	Profesor 518	541
+202311	Campus Santa Fe	L00621844	Profesor 520	1199
+202311	Campus Santa Fe	L00621845	Profesor 521	541
+202311	Campus Santa Fe	L00621852	Profesor 528	1263
+202311	Campus Santa Fe	L00621854	Profesor 530	33816
+202311	Campus Santa Fe	L00621854	Profesor 530	38882
+202311	Campus Santa Fe	L00621890	Profesor 566	36200
+202311	Campus Santa Fe	L00621891	Profesor 567	493
+202311	Campus Santa Fe	L00621891	Profesor 567	530
+202311	Campus Santa Fe	L00621899	Profesor 575	463
+202311	Campus Santa Fe	L00621914	Profesor 590	33928
+202311	Campus Santa Fe	L00621921	Profesor 597	540
+202311	Campus Santa Fe	L00621935	Profesor 611	33886
+202311	Campus Santa Fe	L00621935	Profesor 611	39179
+202311	Campus Santa Fe	L00621955	Profesor 631	539
+202311	Campus Santa Fe	L00622001	Profesor 677	540
+202311	Campus Santa Fe	L00622001	Profesor 677	2037
+202311	Campus Santa Fe	L00622044	Profesor 720	38882
+202311	Campus Santa Fe	L00622045	Profesor 721	39016
+202311	Campus Santa Fe	L00622051	Profesor 727	1191
+202311	Campus Santa Fe	L00622051	Profesor 727	1192
+202311	Campus Santa Fe	L00622051	Profesor 727	1195
+202311	Campus Santa Fe	L00622051	Profesor 727	1196
+202311	Campus Santa Fe	L00622063	Profesor 739	1197
+202311	Campus Santa Fe	L00622066	Profesor 742	565
+202311	Campus Santa Fe	L00622072	Profesor 748	33886
+202311	Campus Santa Fe	L00622072	Profesor 748	39179
+202311	Campus Santa Fe	L00622096	Profesor 772	1195
+202311	Campus Santa Fe	L00622096	Profesor 772	1196
+202311	Campus Santa Fe	L00622098	Profesor 774	1195
+202311	Campus Santa Fe	L00622098	Profesor 774	1196
+202311	Campus Santa Fe	L00622100	Profesor 776	33886
+202311	Campus Santa Fe	L00622100	Profesor 776	39179
+202311	Campus Santa Fe	L00622134	Profesor 810	38882
+202311	Campus Santa Fe	L00622166	Profesor 842	1887
+202311	Campus Santa Fe	L00622166	Profesor 842	2035
+202311	Campus Santa Fe	L00622209	Profesor 885	36200
+202311	Campus Santa Fe	L00622218	Profesor 894	33806
+202311	Campus Santa Fe	L00622218	Profesor 894	33807
+202311	Campus Santa Fe	L00622262	Profesor 938	566
+202311	Campus Santa Fe	L00622265	Profesor 941	568
+202311	Campus Santa Fe	L00622268	Profesor 944	537
+202311	Campus Santa Fe	L00622281	Profesor 957	564
+202311	Campus Santa Fe	L00622281	Profesor 957	568
+202311	Campus Santa Fe	L00622293	Profesor 969	541
+202311	Campus Santa Fe	L00622299	Profesor 975	1770
+202311	Campus Santa Fe	L00622306	Profesor 982	2035
+202311	Campus Santa Fe	L00622307	Profesor 983	39016
+202311	Campus Santa Fe	L00622327	Profesor 1003	531
+202311	Campus Santa Fe	L00622334	Profesor 1010	565
+202311	Campus Santa Fe	L00622334	Profesor 1010	566
+202311	Campus Santa Fe	L00622337	Profesor 1013	558
+202311	Campus Santa Fe	L00622357	Profesor 1033	1879
+202311	Campus Santa Fe	L00622392	Profesor 1068	1263
+202311	Campus Santa Fe	L00622418	Profesor 1094	558
+202311	Campus Santa Fe	L00622418	Profesor 1094	1199
+202311	Campus Santa Fe	L00622439	Profesor 1115	563
+202311	Campus Santa Fe	L00622444	Profesor 1120	464
+202311	Campus Santa Fe	L00622444	Profesor 1120	540
+202311	Campus Santa Fe	L00622461	Profesor 1137	2037
+202311	Campus Santa Fe	L00622464	Profesor 1140	493
+202311	Campus Santa Fe	L00622469	Profesor 1145	33932
+202311	Campus Santa Fe	L00622471	Profesor 1147	1197
+202311	Campus Santa Fe	L00622477	Profesor 1153	541
+202311	Campus Santa Fe	L00622480	Profesor 1156	1887
+202311	Campus Santa Fe	L00622480	Profesor 1156	2036
+202311	Campus Santa Fe	L00622482	Profesor 1158	569
+202311	Campus Santa Fe	L00622488	Profesor 1164	464
+202311	Campus Santa Fe	L00622507	Profesor 1183	33932
+202311	Campus Santa Fe	L00622525	Profesor 1201	440
+202311	Campus Santa Fe	L00622531	Profesor 1207	39016
+202311	Campus Santa Fe	L00622534	Profesor 1210	33886
+202311	Campus Santa Fe	L00622534	Profesor 1210	39179
+202311	Campus Santa Fe	L00622537	Profesor 1213	1879
+202311	Campus Santa Fe	L00622559	Profesor 1235	1770
+202311	Campus Santa Fe	L00622575	Profesor 1251	2036
+202311	Campus Santa Fe	L00622598	Profesor 1274	1195
+202311	Campus Santa Fe	L00622598	Profesor 1274	1196
+202311	Campus Santa Fe	L00622604	Profesor 1280	564
+202311	Campus Santa Fe	L00622618	Profesor 1294	539
+202311	Campus Sinaloa	L00621394	Profesor 70	25966
+202311	Campus Sinaloa	L00621747	Profesor 423	23359
+202311	Campus Sinaloa	L00621748	Profesor 424	25076
+202311	Campus Sinaloa	L00621749	Profesor 425	23208
+202311	Campus Sinaloa	L00621749	Profesor 425	23209
+202311	Campus Sinaloa	L00621750	Profesor 426	25966
+202311	Campus Sinaloa	L00621763	Profesor 439	25966
+202311	Campus Sinaloa	L00621804	Profesor 480	23207
+202311	Campus Sinaloa	L00621804	Profesor 480	23208
+202311	Campus Sinaloa	L00621804	Profesor 480	23209
+202311	Campus Sinaloa	L00621861	Profesor 537	23207
+202311	Campus Sinaloa	L00621861	Profesor 537	23359
+202311	Campus Sinaloa	L00621861	Profesor 537	25966
+202311	Campus Sinaloa	L00621901	Profesor 577	25076
+202311	Campus Sinaloa	L00621902	Profesor 578	25076
+202311	Campus Sinaloa	L00621907	Profesor 583	23207
+202311	Campus Sinaloa	L00622012	Profesor 688	25966
+202311	Campus Sinaloa	L00622035	Profesor 711	23208
+202311	Campus Sinaloa	L00622035	Profesor 711	23209
+202311	Campus Sinaloa	L00622478	Profesor 1154	23207
+202311	Campus Tampico	L00621542	Profesor 218	25427
+202311	Campus Tampico	L00621544	Profesor 220	19082
+202311	Campus Tampico	L00621544	Profesor 220	19083
+202311	Campus Tampico	L00621546	Profesor 222	19090
+202311	Campus Tampico	L00621549	Profesor 225	19112
+202311	Campus Tampico	L00621549	Profesor 225	20588
+202311	Campus Tampico	L00621606	Profesor 282	20588
+202311	Campus Tampico	L00621771	Profesor 447	19090
+202311	Campus Tampico	L00621832	Profesor 508	25427
+202311	Campus Tampico	L00621867	Profesor 543	25427
+202311	Campus Tampico	L00621992	Profesor 668	19112
+202311	Campus Tampico	L00622056	Profesor 732	19112
+202311	Campus Tampico	L00622120	Profesor 796	19082
+202311	Campus Tampico	L00622120	Profesor 796	19083
+202311	Campus Tampico	L00622184	Profesor 860	19090
+202311	Campus Tampico	L00622290	Profesor 966	19112
+202311	Campus Tampico	L00622298	Profesor 974	20588
+202311	Campus Tampico	L00622298	Profesor 974	25427
+202311	Campus Tampico	L00622323	Profesor 999	19082
+202311	Campus Tampico	L00622323	Profesor 999	19083
+202311	Campus Tampico	L00622503	Profesor 1179	25427
+202311	Campus Toluca	L00621454	Profesor 130	23128
+202311	Campus Toluca	L00621594	Profesor 270	1739
+202311	Campus Toluca	L00621594	Profesor 270	1747
+202311	Campus Toluca	L00621594	Profesor 270	1748
+202311	Campus Toluca	L00621594	Profesor 270	1813
+202311	Campus Toluca	L00621599	Profesor 275	16257
+202311	Campus Toluca	L00621599	Profesor 275	16279
+202311	Campus Toluca	L00621600	Profesor 276	22535
+202311	Campus Toluca	L00621601	Profesor 277	16257
+202311	Campus Toluca	L00621602	Profesor 278	16279
+202311	Campus Toluca	L00621604	Profesor 280	1750
+202311	Campus Toluca	L00621607	Profesor 283	1747
+202311	Campus Toluca	L00621607	Profesor 283	1748
+202311	Campus Toluca	L00621609	Profesor 285	1726
+202311	Campus Toluca	L00621611	Profesor 287	25335
+202311	Campus Toluca	L00621613	Profesor 289	25357
+202311	Campus Toluca	L00621614	Profesor 290	1726
+202311	Campus Toluca	L00621621	Profesor 297	1747
+202311	Campus Toluca	L00621621	Profesor 297	1748
+202311	Campus Toluca	L00621760	Profesor 436	14436
+202311	Campus Toluca	L00621782	Profesor 458	16279
+202311	Campus Toluca	L00621791	Profesor 467	1750
+202311	Campus Toluca	L00621892	Profesor 568	1747
+202311	Campus Toluca	L00621892	Profesor 568	1748
+202311	Campus Toluca	L00622011	Profesor 687	13089
+202311	Campus Toluca	L00622046	Profesor 722	1739
+202311	Campus Toluca	L00622046	Profesor 722	1813
+202311	Campus Toluca	L00622067	Profesor 743	23128
+202311	Campus Toluca	L00622152	Profesor 828	1750
+202311	Campus Toluca	L00622158	Profesor 834	12210
+202311	Campus Toluca	L00622158	Profesor 834	22513
+202311	Campus Toluca	L00622288	Profesor 964	1726
+202311	Campus Toluca	L00622324	Profesor 1000	22488
+202311	Campus Toluca	L00622346	Profesor 1022	14436
+202311	Campus Toluca	L00622346	Profesor 1022	14437
+202311	Campus Toluca	L00622346	Profesor 1022	14438
+202311	Campus Toluca	L00622362	Profesor 1038	1747
+202311	Campus Toluca	L00622362	Profesor 1038	1748
+202311	Campus Toluca	L00622364	Profesor 1040	1726
+202311	Campus Toluca	L00622368	Profesor 1044	14435
+202311	Campus Toluca	L00622407	Profesor 1083	1739
+202311	Campus Toluca	L00622407	Profesor 1083	1750
+202311	Campus Toluca	L00622407	Profesor 1083	1813
+202311	Campus Toluca	L00622415	Profesor 1091	14429
+202311	Campus Toluca	L00622420	Profesor 1096	14439
+202311	Campus Toluca	L00622443	Profesor 1119	14429
+202311	Campus Toluca	L00622443	Profesor 1119	14437
+202311	Campus Toluca	L00622446	Profesor 1122	22513
+202311	Campus Toluca	L00622468	Profesor 1144	12210
+202311	Campus Toluca	L00622468	Profesor 1144	14437
+202311	Campus Toluca	L00622468	Profesor 1144	14439
+202311	Campus Toluca	L00622472	Profesor 1148	14435
+202311	Campus Toluca	L00622479	Profesor 1155	13089
+202311	Campus Toluca	L00622480	Profesor 1156	22513
+202311	Campus Toluca	L00622515	Profesor 1191	22535
+202311	Campus Toluca	L00622515	Profesor 1191	25335
+202311	Campus Toluca	L00622536	Profesor 1212	22535
+202311	Campus Toluca	L00622536	Profesor 1212	25335
+202311	Campus Toluca	L00622542	Profesor 1218	14436
+202311	Campus Toluca	L00622542	Profesor 1218	14438
+202311	Campus Toluca	L00622542	Profesor 1218	25357
+202311	Campus Toluca	L00622593	Profesor 1269	22488
+202311	Campus Toluca	L00622631	Profesor 1307	25335
+202311	Campus Toluca	L00622638	Profesor 1314	1739
+202311	Campus Toluca	L00622638	Profesor 1314	1813
+202311	Campus Zacatecas	L00621660	Profesor 336	34701
+202311	Campus Zacatecas	L00621753	Profesor 429	34701
+202311	Campus Zacatecas	L00621960	Profesor 636	34701
+202311	Campus Zacatecas	L00621960	Profesor 636	34702
+202311	Campus Zacatecas	L00622049	Profesor 725	34702
+202311	Campus Zacatecas	L00622302	Profesor 978	34701
+202311	Campus Zacatecas	L00622448	Profesor 1124	34702
+202311	Campus Zacatecas	L00622554	Profesor 1230	34702
+202311	Campus Aguascalientes	L00621558	Profesor 234	15324
+202311	Campus Aguascalientes	L00621828	Profesor 504	15324
+202311	Campus Aguascalientes	L00622237	Profesor 913	15324
+202311	Campus Ciudad de México	L00621341	Profesor 17	22605
+202311	Campus Ciudad de México	L00621341	Profesor 17	22606
+202311	Campus Ciudad de México	L00621509	Profesor 185	22605
+202311	Campus Ciudad de México	L00621509	Profesor 185	22606
+202311	Campus Cuernavaca	L00621579	Profesor 255	24307
+202311	Campus Cuernavaca	L00622038	Profesor 714	24307
+202311	Campus Cuernavaca	L00622610	Profesor 1286	24307
+202311	Campus Estado de México	L00621841	Profesor 517	24521
+202311	Campus Estado de México	L00621841	Profesor 517	24522
+202311	Campus Estado de México	L00622208	Profesor 884	24521
+202311	Campus Estado de México	L00622208	Profesor 884	24522
+202311	Campus Estado de México	L00622561	Profesor 1237	24521
+202311	Campus Estado de México	L00622561	Profesor 1237	24522
+202311	Campus Hidalgo	L00621553	Profesor 229	33868
+202311	Campus Hidalgo	L00621831	Profesor 507	33868
+202311	Campus León	L00621562	Profesor 238	21201
+202311	Campus León	L00621957	Profesor 633	21201
+202311	Campus León	L00622142	Profesor 818	21201
+202311	Campus Monterrey	L00621359	Profesor 35	31276
+202311	Campus Monterrey	L00621363	Profesor 39	30452
+202311	Campus Monterrey	L00621400	Profesor 76	28872
+202311	Campus Monterrey	L00621426	Profesor 102	28872
+202311	Campus Monterrey	L00621430	Profesor 106	28872
+202311	Campus Monterrey	L00621457	Profesor 133	28222
+202311	Campus Monterrey	L00621457	Profesor 133	37147
+202311	Campus Monterrey	L00621473	Profesor 149	28222
+202311	Campus Monterrey	L00621473	Profesor 149	37147
+202311	Campus Monterrey	L00621481	Profesor 157	30453
+202311	Campus Monterrey	L00621824	Profesor 500	28222
+202311	Campus Monterrey	L00621824	Profesor 500	37147
+202311	Campus Monterrey	L00621969	Profesor 645	30453
+202311	Campus Monterrey	L00622000	Profesor 676	28222
+202311	Campus Monterrey	L00622000	Profesor 676	37147
+202311	Campus Monterrey	L00622082	Profesor 758	30452
+202311	Campus Monterrey	L00622089	Profesor 765	28222
+202311	Campus Monterrey	L00622089	Profesor 765	37147
+202311	Campus Monterrey	L00622103	Profesor 779	31276
+202311	Campus Monterrey	L00622125	Profesor 801	31276
+202311	Campus Monterrey	L00622141	Profesor 817	31276
+202311	Campus Monterrey	L00622322	Profesor 998	28222
+202311	Campus Monterrey	L00622322	Profesor 998	37147
+202311	Campus Monterrey	L00622450	Profesor 1126	30453
+202311	Campus Monterrey	L00622491	Profesor 1167	28872
+202311	Campus Monterrey	L00622614	Profesor 1290	30452
+202311	Campus Monterrey	L00622636	Profesor 1312	30452
+202311	Campus Puebla	L00621644	Profesor 320	17483
+202311	Campus Puebla	L00621676	Profesor 352	17483
+202311	Campus Puebla	L00622586	Profesor 1262	17483
+202311	Campus Querétaro	L00621889	Profesor 565	18091
+202311	Campus Querétaro	L00621889	Profesor 565	18092
+202311	Campus Querétaro	L00621958	Profesor 634	18091
+202311	Campus Querétaro	L00621958	Profesor 634	18092
+202311	Campus Querétaro	L00622224	Profesor 900	18091
+202311	Campus Querétaro	L00622224	Profesor 900	18092
+202311	Campus Saltillo	L00621751	Profesor 427	28944
+202311	Campus Saltillo	L00621883	Profesor 559	28944
+202311	Campus Saltillo	L00622061	Profesor 737	28944
+202311	Campus Saltillo	L00622274	Profesor 950	28944
+202311	Campus San Luis Potosí	L00621777	Profesor 453	35962
+202311	Campus San Luis Potosí	L00621896	Profesor 572	35962
+202311	Campus San Luis Potosí	L00622308	Profesor 984	35962
+202311	Campus San Luis Potosí	L00622361	Profesor 1037	35962
+202311	Campus Santa Fe	L00622154	Profesor 830	462
+202311	Campus Santa Fe	L00622477	Profesor 1153	462
+202311	Campus Santa Fe	L00622525	Profesor 1201	462
+202311	Campus Sinaloa	L00621748	Profesor 424	25079
+202311	Campus Sinaloa	L00621750	Profesor 426	25079
+202311	Campus Sinaloa	L00621901	Profesor 577	25079
+202311	Campus Sinaloa	L00622012	Profesor 688	25079
+202311	Campus Tampico	L00621774	Profesor 450	19093
+202311	Campus Tampico	L00621832	Profesor 508	19093
+202311	Campus Tampico	L00622503	Profesor 1179	19093
+202311	Campus Toluca	L00622282	Profesor 958	16260
+202311	Campus Toluca	L00622398	Profesor 1074	16260
+202311	Campus Aguascalientes	L00621501	Profesor 177	15330
+202311	Campus Aguascalientes	L00621828	Profesor 504	15327
+202311	Campus Aguascalientes	L00621886	Profesor 562	15287
+202311	Campus Aguascalientes	L00621886	Profesor 562	15288
+202311	Campus Aguascalientes	L00621886	Profesor 562	15289
+202311	Campus Aguascalientes	L00622043	Profesor 719	15349
+202311	Campus Chiapas	L00621660	Profesor 336	33347
+202311	Campus Ciudad de México	L00621407	Profesor 83	34653
+202311	Campus Ciudad de México	L00621407	Profesor 83	34654
+202311	Campus Ciudad de México	L00621519	Profesor 195	19028
+202311	Campus Ciudad de México	L00621519	Profesor 195	20417
+202311	Campus Ciudad de México	L00621635	Profesor 311	18688
+202311	Campus Ciudad de México	L00621635	Profesor 311	18690
+202311	Campus Ciudad de México	L00621635	Profesor 311	18696
+202311	Campus Ciudad de México	L00621635	Profesor 311	18700
+202311	Campus Ciudad de México	L00621642	Profesor 318	25859
+202311	Campus Ciudad de México	L00621642	Profesor 318	25860
+202311	Campus Ciudad de México	L00621642	Profesor 318	32706
+202311	Campus Ciudad de México	L00621649	Profesor 325	34652
+202311	Campus Ciudad de México	L00621653	Profesor 329	22613
+202311	Campus Ciudad de México	L00621657	Profesor 333	15432
+202311	Campus Ciudad de México	L00621909	Profesor 585	32708
+202311	Campus Ciudad de México	L00621928	Profesor 604	15441
+202311	Campus Ciudad de México	L00622131	Profesor 807	19029
+202311	Campus Ciudad de México	L00622131	Profesor 807	19036
+202311	Campus Ciudad de México	L00622131	Profesor 807	20418
+202311	Campus Ciudad de México	L00622131	Profesor 807	20419
+202311	Campus Ciudad de México	L00622170	Profesor 846	41299
+202311	Campus Ciudad de México	L00622170	Profesor 846	41300
+202311	Campus Ciudad de México	L00622186	Profesor 862	14044
+202311	Campus Ciudad de México	L00622186	Profesor 862	14045
+202311	Campus Ciudad de México	L00622186	Profesor 862	14047
+202311	Campus Ciudad de México	L00622190	Profesor 866	19034
+202311	Campus Ciudad de México	L00622190	Profesor 866	19035
+202311	Campus Ciudad de México	L00622263	Profesor 939	41321
+202311	Campus Ciudad de México	L00622294	Profesor 970	18689
+202311	Campus Ciudad de México	L00622294	Profesor 970	18691
+202311	Campus Ciudad de México	L00622294	Profesor 970	18695
+202311	Campus Ciudad de México	L00622294	Profesor 970	18698
+202311	Campus Ciudad de México	L00622319	Profesor 995	18699
+202311	Campus Ciudad de México	L00622423	Profesor 1099	14048
+202311	Campus Ciudad de México	L00622463	Profesor 1139	15430
+202311	Campus Ciudad de México	L00622463	Profesor 1139	15431
+202311	Campus Ciudad de México	L00622470	Profesor 1146	15433
+202311	Campus Ciudad de México	L00622501	Profesor 1177	14046
+202311	Campus Ciudad de México	L00622611	Profesor 1287	22657
+202311	Campus Ciudad Juárez	L00622615	Profesor 1291	40605
+202311	Campus Cuernavaca	L00621579	Profesor 255	22748
+202311	Campus Cuernavaca	L00621924	Profesor 600	22773
+202311	Campus Cuernavaca	L00622359	Profesor 1035	22766
+202311	Campus Cuernavaca	L00622535	Profesor 1211	15011
+202311	Campus Cuernavaca	L00622535	Profesor 1211	15012
+202311	Campus Cuernavaca	L00622535	Profesor 1211	15013
+202311	Campus Cuernavaca	L00622610	Profesor 1286	34962
+202311	Campus Estado de México	L00621329	Profesor 5	24658
+202311	Campus Estado de México	L00621329	Profesor 5	24659
+202311	Campus Estado de México	L00621329	Profesor 5	24660
+202311	Campus Estado de México	L00621333	Profesor 9	24856
+202311	Campus Estado de México	L00621661	Profesor 337	24533
+202311	Campus Estado de México	L00621661	Profesor 337	24534
+202311	Campus Estado de México	L00621665	Profesor 341	24527
+202311	Campus Estado de México	L00621665	Profesor 341	24528
+202311	Campus Estado de México	L00621669	Profesor 345	24630
+202311	Campus Estado de México	L00621679	Profesor 355	24873
+202311	Campus Estado de México	L00621689	Profesor 365	24140
+202311	Campus Estado de México	L00621689	Profesor 365	24141
+202311	Campus Estado de México	L00621700	Profesor 376	24762
+202311	Campus Estado de México	L00621702	Profesor 378	24632
+202311	Campus Estado de México	L00621705	Profesor 381	24719
+202311	Campus Estado de México	L00621705	Profesor 381	24720
+202311	Campus Estado de México	L00621850	Profesor 526	40750
+202311	Campus Estado de México	L00621855	Profesor 531	24708
+202311	Campus Estado de México	L00622006	Profesor 682	24351
+202311	Campus Estado de México	L00622124	Profesor 800	24072
+202311	Campus Estado de México	L00622181	Profesor 857	24055
+202311	Campus Estado de México	L00622199	Profesor 875	24138
+202311	Campus Estado de México	L00622199	Profesor 875	24139
+202311	Campus Estado de México	L00622210	Profesor 886	24694
+202311	Campus Estado de México	L00622219	Profesor 895	24794
+202311	Campus Estado de México	L00622231	Profesor 907	24073
+202311	Campus Estado de México	L00622276	Profesor 952	24329
+202311	Campus Estado de México	L00622276	Profesor 952	24346
+202311	Campus Estado de México	L00622276	Profesor 952	24348
+202311	Campus Estado de México	L00622276	Profesor 952	24350
+202311	Campus Estado de México	L00622297	Profesor 973	24327
+202311	Campus Estado de México	L00622297	Profesor 973	24331
+202311	Campus Estado de México	L00622297	Profesor 973	24347
+202311	Campus Estado de México	L00622303	Profesor 979	24762
+202311	Campus Estado de México	L00622434	Profesor 1110	24349
+202311	Campus Estado de México	L00622494	Profesor 1170	24151
+202311	Campus Estado de México	L00622522	Profesor 1198	24773
+202311	Campus Estado de México	L00622522	Profesor 1198	24774
+202311	Campus Estado de México	L00622547	Profesor 1223	24772
+202311	Campus Estado de México	L00622594	Profesor 1270	24771
+202311	Campus Guadalajara	L00621357	Profesor 33	1418
+202311	Campus Guadalajara	L00621357	Profesor 33	1420
+202311	Campus Guadalajara	L00621357	Profesor 33	42303
+202311	Campus Guadalajara	L00621466	Profesor 142	1323
+202311	Campus Guadalajara	L00621534	Profesor 210	1430
+202311	Campus Guadalajara	L00621534	Profesor 210	1431
+202311	Campus Guadalajara	L00621565	Profesor 241	2178
+202311	Campus Guadalajara	L00621565	Profesor 241	2180
+202311	Campus Guadalajara	L00621720	Profesor 396	1339
+202311	Campus Guadalajara	L00621720	Profesor 396	1340
+202311	Campus Guadalajara	L00621727	Profesor 403	15172
+202311	Campus Guadalajara	L00621730	Profesor 406	1429
+202311	Campus Guadalajara	L00621731	Profesor 407	16587
+202311	Campus Guadalajara	L00621732	Profesor 408	16588
+202311	Campus Guadalajara	L00621732	Profesor 408	16589
+202311	Campus Guadalajara	L00621737	Profesor 413	1463
+202311	Campus Guadalajara	L00621738	Profesor 414	2175
+202311	Campus Guadalajara	L00621738	Profesor 414	2186
+202311	Campus Guadalajara	L00621775	Profesor 451	16588
+202311	Campus Guadalajara	L00621775	Profesor 451	16589
+202311	Campus Guadalajara	L00621811	Profesor 487	15188
+202311	Campus Guadalajara	L00621818	Profesor 494	1434
+202311	Campus Guadalajara	L00621939	Profesor 615	2174
+202311	Campus Guadalajara	L00621939	Profesor 615	2187
+202311	Campus Guadalajara	L00621943	Profesor 619	2177
+202311	Campus Guadalajara	L00621943	Profesor 619	2188
+202311	Campus Guadalajara	L00621943	Profesor 619	2191
+202311	Campus Guadalajara	L00622240	Profesor 916	2184
+202311	Campus Guadalajara	L00622257	Profesor 933	1339
+202311	Campus Guadalajara	L00622257	Profesor 933	1340
+202311	Campus Guadalajara	L00622360	Profesor 1036	15187
+202311	Campus Guadalajara	L00622375	Profesor 1051	2298
+202311	Campus Guadalajara	L00622390	Profesor 1066	1321
+202311	Campus Guadalajara	L00622390	Profesor 1066	1322
+202311	Campus Guadalajara	L00622391	Profesor 1067	1318
+202311	Campus Guadalajara	L00622391	Profesor 1067	1319
+202311	Campus Guadalajara	L00622391	Profesor 1067	1320
+202311	Campus Guadalajara	L00622411	Profesor 1087	2185
+202311	Campus Guadalajara	L00622412	Profesor 1088	2179
+202311	Campus Guadalajara	L00622412	Profesor 1088	2183
+202311	Campus Guadalajara	L00622412	Profesor 1088	2192
+202311	Campus Guadalajara	L00622425	Profesor 1101	1464
+202311	Campus Guadalajara	L00622454	Profesor 1130	1291
+202311	Campus Guadalajara	L00622476	Profesor 1152	1293
+202311	Campus Guadalajara	L00622484	Profesor 1160	2181
+202311	Campus Guadalajara	L00622517	Profesor 1193	16588
+202311	Campus Guadalajara	L00622517	Profesor 1193	16589
+202311	Campus Guadalajara	L00622543	Profesor 1219	1292
+202311	Campus Guadalajara	L00622548	Profesor 1224	2189
+202311	Campus Guadalajara	L00622596	Profesor 1272	2190
+202311	Campus Hidalgo	L00621554	Profesor 230	4363
+202311	Campus Hidalgo	L00621912	Profesor 588	4343
+202311	Campus Hidalgo	L00622123	Profesor 799	4341
+202311	Campus Hidalgo	L00622123	Profesor 799	4342
+202311	Campus Hidalgo	L00622129	Profesor 805	4361
+202311	Campus Hidalgo	L00622421	Profesor 1097	4372
+202311	Campus Hidalgo	L00622483	Profesor 1159	4363
+202311	Campus León	L00621559	Profesor 235	21214
+202311	Campus León	L00621957	Profesor 633	19060
+202311	Campus León	L00622161	Profesor 837	19046
+202311	Campus León	L00622161	Profesor 837	19047
+202311	Campus León	L00622161	Profesor 837	19048
+202311	Campus León	L00622278	Profesor 954	20439
+202311	Campus Monterrey	L00621336	Profesor 12	30490
+202311	Campus Monterrey	L00621336	Profesor 12	30491
+202311	Campus Monterrey	L00621336	Profesor 12	30518
+202311	Campus Monterrey	L00621340	Profesor 16	30518
+202311	Campus Monterrey	L00621340	Profesor 16	30519
+202311	Campus Monterrey	L00621340	Profesor 16	30520
+202311	Campus Monterrey	L00621342	Profesor 18	30477
+202311	Campus Monterrey	L00621344	Profesor 20	30634
+202311	Campus Monterrey	L00621345	Profesor 21	31732
+202311	Campus Monterrey	L00621346	Profesor 22	30817
+202311	Campus Monterrey	L00621347	Profesor 23	28543
+202311	Campus Monterrey	L00621347	Profesor 23	28544
+202311	Campus Monterrey	L00621348	Profesor 24	29251
+202311	Campus Monterrey	L00621348	Profesor 24	29253
+202311	Campus Monterrey	L00621353	Profesor 29	31192
+202311	Campus Monterrey	L00621354	Profesor 30	31601
+202311	Campus Monterrey	L00621359	Profesor 35	31187
+202311	Campus Monterrey	L00621361	Profesor 37	31194
+202311	Campus Monterrey	L00621368	Profesor 44	30801
+202311	Campus Monterrey	L00621368	Profesor 44	30805
+202311	Campus Monterrey	L00621368	Profesor 44	30808
+202311	Campus Monterrey	L00621368	Profesor 44	30809
+202311	Campus Monterrey	L00621370	Profesor 46	42846
+202311	Campus Monterrey	L00621373	Profesor 49	29247
+202311	Campus Monterrey	L00621373	Profesor 49	29267
+202311	Campus Monterrey	L00621378	Profesor 54	30800
+202311	Campus Monterrey	L00621378	Profesor 54	30802
+202311	Campus Monterrey	L00621378	Profesor 54	30806
+202311	Campus Monterrey	L00621382	Profesor 58	30614
+202311	Campus Monterrey	L00621382	Profesor 58	30636
+202311	Campus Monterrey	L00621382	Profesor 58	33685
+202311	Campus Monterrey	L00621389	Profesor 65	31163
+202311	Campus Monterrey	L00621395	Profesor 71	30492
+202311	Campus Monterrey	L00621397	Profesor 73	30804
+202311	Campus Monterrey	L00621397	Profesor 73	30811
+202311	Campus Monterrey	L00621397	Profesor 73	30846
+202311	Campus Monterrey	L00621409	Profesor 85	31566
+202311	Campus Monterrey	L00621410	Profesor 86	30812
+202311	Campus Monterrey	L00621410	Profesor 86	30847
+202311	Campus Monterrey	L00621410	Profesor 86	34404
+202311	Campus Monterrey	L00621411	Profesor 87	30703
+202311	Campus Monterrey	L00621415	Profesor 91	39940
+202311	Campus Monterrey	L00621418	Profesor 94	29256
+202311	Campus Monterrey	L00621421	Profesor 97	31195
+202311	Campus Monterrey	L00621421	Profesor 97	31196
+202311	Campus Monterrey	L00621421	Profesor 97	40453
+202311	Campus Monterrey	L00621422	Profesor 98	28545
+202311	Campus Monterrey	L00621433	Profesor 109	36523
+202311	Campus Monterrey	L00621444	Profesor 120	28547
+202311	Campus Monterrey	L00621444	Profesor 120	28554
+202311	Campus Monterrey	L00621444	Profesor 120	28555
+202311	Campus Monterrey	L00621444	Profesor 120	40671
+202311	Campus Monterrey	L00621447	Profesor 123	28553
+202311	Campus Monterrey	L00621449	Profesor 125	30889
+202311	Campus Monterrey	L00621449	Profesor 125	30890
+202311	Campus Monterrey	L00621458	Profesor 134	30632
+202311	Campus Monterrey	L00621464	Profesor 140	39715
+202311	Campus Monterrey	L00621471	Profesor 147	28546
+202311	Campus Monterrey	L00621472	Profesor 148	30524
+202311	Campus Monterrey	L00621486	Profesor 162	30814
+202311	Campus Monterrey	L00621643	Profesor 319	30891
+202311	Campus Monterrey	L00621643	Profesor 319	30892
+202311	Campus Monterrey	L00621754	Profesor 430	29254
+202311	Campus Monterrey	L00621756	Profesor 432	28599
+202311	Campus Monterrey	L00621767	Profesor 443	30492
+202311	Campus Monterrey	L00621793	Profesor 469	29246
+202311	Campus Monterrey	L00621795	Profesor 471	28603
+202311	Campus Monterrey	L00621805	Profesor 481	31694
+202311	Campus Monterrey	L00621805	Profesor 481	31695
+202311	Campus Monterrey	L00621820	Profesor 496	30807
+202311	Campus Monterrey	L00621820	Profesor 496	30810
+202311	Campus Monterrey	L00621820	Profesor 496	30813
+202311	Campus Monterrey	L00621820	Profesor 496	30845
+202311	Campus Monterrey	L00621822	Profesor 498	28549
+202311	Campus Monterrey	L00621822	Profesor 498	28550
+202311	Campus Monterrey	L00621822	Profesor 498	28551
+202311	Campus Monterrey	L00621822	Profesor 498	28552
+202311	Campus Monterrey	L00621830	Profesor 506	31188
+202311	Campus Monterrey	L00621858	Profesor 534	29259
+202311	Campus Monterrey	L00621864	Profesor 540	31545
+202311	Campus Monterrey	L00621865	Profesor 541	31565
+202311	Campus Monterrey	L00621876	Profesor 552	31266
+202311	Campus Monterrey	L00621929	Profesor 605	31189
+202311	Campus Monterrey	L00621944	Profesor 620	31731
+202311	Campus Monterrey	L00621947	Profesor 623	30509
+202311	Campus Monterrey	L00621953	Profesor 629	35227
+202311	Campus Monterrey	L00621956	Profesor 632	31712
+202311	Campus Monterrey	L00621965	Profesor 641	29257
+202311	Campus Monterrey	L00621965	Profesor 641	29258
+202311	Campus Monterrey	L00621965	Profesor 641	29263
+202311	Campus Monterrey	L00621999	Profesor 675	30893
+202311	Campus Monterrey	L00621999	Profesor 675	43093
+202311	Campus Monterrey	L00622000	Profesor 676	28219
+202311	Campus Monterrey	L00622009	Profesor 685	28278
+202311	Campus Monterrey	L00622020	Profesor 696	31288
+202311	Campus Monterrey	L00622029	Profesor 705	29261
+202311	Campus Monterrey	L00622047	Profesor 723	42379
+202311	Campus Monterrey	L00622082	Profesor 758	30493
+202311	Campus Monterrey	L00622082	Profesor 758	30494
+202311	Campus Monterrey	L00622082	Profesor 758	30495
+202311	Campus Monterrey	L00622113	Profesor 789	31268
+202311	Campus Monterrey	L00622115	Profesor 791	36524
+202311	Campus Monterrey	L00622115	Profesor 791	40459
+202311	Campus Monterrey	L00622117	Profesor 793	29252
+202311	Campus Monterrey	L00622117	Profesor 793	29260
+202311	Campus Monterrey	L00622125	Profesor 801	31191
+202311	Campus Monterrey	L00622140	Profesor 816	42248
+202311	Campus Monterrey	L00622175	Profesor 851	30478
+202311	Campus Monterrey	L00622175	Profesor 851	30803
+202311	Campus Monterrey	L00622202	Profesor 878	28597
+202311	Campus Monterrey	L00622202	Profesor 878	36262
+202311	Campus Monterrey	L00622232	Profesor 908	40130
+202311	Campus Monterrey	L00622272	Profesor 948	31163
+202311	Campus Monterrey	L00622315	Profesor 991	30891
+202311	Campus Monterrey	L00622315	Profesor 991	30892
+202311	Campus Monterrey	L00622333	Profesor 1009	30479
+202311	Campus Monterrey	L00622333	Profesor 1009	30504
+202311	Campus Monterrey	L00622342	Profesor 1018	28556
+202311	Campus Monterrey	L00622342	Profesor 1018	36261
+202311	Campus Monterrey	L00622343	Profesor 1019	31267
+202311	Campus Monterrey	L00622354	Profesor 1030	31696
+202311	Campus Monterrey	L00622366	Profesor 1042	29266
+202311	Campus Monterrey	L00622380	Profesor 1056	29244
+202311	Campus Monterrey	L00622380	Profesor 1056	29245
+202311	Campus Monterrey	L00622406	Profesor 1082	31603
+202311	Campus Monterrey	L00622424	Profesor 1100	29248
+202311	Campus Monterrey	L00622424	Profesor 1100	29262
+202311	Campus Monterrey	L00622440	Profesor 1116	31167
+202311	Campus Monterrey	L00622440	Profesor 1116	31168
+202311	Campus Monterrey	L00622489	Profesor 1165	29249
+202311	Campus Monterrey	L00622489	Profesor 1165	29250
+202311	Campus Monterrey	L00622495	Profesor 1171	35220
+202311	Campus Monterrey	L00622511	Profesor 1187	31193
+202311	Campus Monterrey	L00622511	Profesor 1187	31265
+202311	Campus Monterrey	L00622573	Profesor 1249	30508
+202311	Campus Monterrey	L00622577	Profesor 1253	30633
+202311	Campus Monterrey	L00622600	Profesor 1276	31606
+202311	Campus Monterrey	L00622637	Profesor 1313	30507
+202311	Campus Monterrey	L00622637	Profesor 1313	30523
+202311	Campus Morelia	L00621847	Profesor 523	35078
+202311	Campus Morelia	L00621847	Profesor 523	35079
+202311	Campus Morelia	L00622260	Profesor 936	35078
+202311	Campus Morelia	L00622260	Profesor 936	35079
+202311	Campus Nacional	L00621421	Profesor 97	19696
+202311	Campus Nacional	L00621482	Profesor 158	19940
+202311	Campus Nacional	L00621528	Profesor 204	20060
+202311	Campus Nacional	L00621683	Profesor 359	20046
+202311	Campus Nacional	L00621723	Profesor 399	19941
+202311	Campus Nacional	L00621723	Profesor 399	19945
+202311	Campus Nacional	L00621855	Profesor 531	20045
+202311	Campus Nacional	L00621975	Profesor 651	36574
+202311	Campus Nacional	L00622020	Profesor 696	19342
+202311	Campus Nacional	L00622020	Profesor 696	19343
+202311	Campus Nacional	L00622040	Profesor 716	20042
+202311	Campus Nacional	L00622056	Profesor 732	20025
+202311	Campus Nacional	L00622056	Profesor 732	20078
+202311	Campus Nacional	L00622211	Profesor 887	20080
+202311	Campus Nacional	L00622287	Profesor 963	20172
+202311	Campus Nacional	L00622328	Profesor 1004	19699
+202311	Campus Nacional	L00622410	Profesor 1086	20024
+202311	Campus Puebla	L00621453	Profesor 129	16686
+202311	Campus Puebla	L00621493	Profesor 169	18835
+202311	Campus Puebla	L00621494	Profesor 170	17457
+202311	Campus Puebla	L00621511	Profesor 187	18548
+202311	Campus Puebla	L00621659	Profesor 335	18549
+202311	Campus Puebla	L00621659	Profesor 335	18552
+202311	Campus Puebla	L00621966	Profesor 642	18556
+202311	Campus Puebla	L00621966	Profesor 642	18558
+202311	Campus Puebla	L00621983	Profesor 659	17487
+202311	Campus Puebla	L00622069	Profesor 745	16687
+202311	Campus Puebla	L00622074	Profesor 750	36502
+202311	Campus Puebla	L00622092	Profesor 768	17554
+202311	Campus Puebla	L00622155	Profesor 831	17558
+202311	Campus Puebla	L00622163	Profesor 839	41430
+202311	Campus Puebla	L00622235	Profesor 911	18834
+202311	Campus Puebla	L00622267	Profesor 943	17524
+202311	Campus Puebla	L00622358	Profesor 1034	18553
+202311	Campus Puebla	L00622358	Profesor 1034	18554
+202311	Campus Puebla	L00622384	Profesor 1060	18834
+202311	Campus Puebla	L00622395	Profesor 1071	18550
+202311	Campus Puebla	L00622395	Profesor 1071	18551
+202311	Campus Puebla	L00622405	Profesor 1081	15636
+202311	Campus Puebla	L00622405	Profesor 1081	15637
+202311	Campus Puebla	L00622405	Profesor 1081	18555
+202311	Campus Puebla	L00622466	Profesor 1142	17491
+202311	Campus Querétaro	L00621563	Profesor 239	18020
+202311	Campus Querétaro	L00621563	Profesor 239	18027
+202311	Campus Querétaro	L00621566	Profesor 242	18298
+202311	Campus Querétaro	L00621569	Profesor 245	18028
+202311	Campus Querétaro	L00621569	Profesor 245	18029
+202311	Campus Querétaro	L00621570	Profesor 246	18017
+202311	Campus Querétaro	L00621570	Profesor 246	18018
+202311	Campus Querétaro	L00621571	Profesor 247	18133
+202311	Campus Querétaro	L00621572	Profesor 248	18246
+202311	Campus Querétaro	L00621572	Profesor 248	18248
+202311	Campus Querétaro	L00621572	Profesor 248	18249
+202311	Campus Querétaro	L00621576	Profesor 252	17938
+202311	Campus Querétaro	L00621577	Profesor 253	18227
+202311	Campus Querétaro	L00621889	Profesor 565	18131
+202311	Campus Querétaro	L00621889	Profesor 565	18132
+202311	Campus Querétaro	L00621995	Profesor 671	16791
+202311	Campus Querétaro	L00622030	Profesor 706	17979
+202311	Campus Querétaro	L00622037	Profesor 713	18021
+202311	Campus Querétaro	L00622037	Profesor 713	18024
+202311	Campus Querétaro	L00622112	Profesor 788	18243
+202311	Campus Querétaro	L00622122	Profesor 798	18148
+202311	Campus Querétaro	L00622132	Profesor 808	18244
+202311	Campus Querétaro	L00622139	Profesor 815	18121
+202311	Campus Querétaro	L00622139	Profesor 815	18122
+202311	Campus Querétaro	L00622139	Profesor 815	18123
+202311	Campus Querétaro	L00622196	Profesor 872	16791
+202311	Campus Querétaro	L00622214	Profesor 890	16777
+202311	Campus Querétaro	L00622214	Profesor 890	16778
+202311	Campus Querétaro	L00622214	Profesor 890	16779
+202311	Campus Querétaro	L00622269	Profesor 945	18172
+202311	Campus Querétaro	L00622311	Profesor 987	17980
+202311	Campus Querétaro	L00622320	Profesor 996	18019
+202311	Campus Querétaro	L00622320	Profesor 996	18026
+202311	Campus Querétaro	L00622320	Profesor 996	18191
+202311	Campus Querétaro	L00622369	Profesor 1045	18259
+202311	Campus Querétaro	L00622369	Profesor 1045	18268
+202311	Campus Querétaro	L00622372	Profesor 1048	18023
+202311	Campus Querétaro	L00622429	Profesor 1105	18226
+202311	Campus Querétaro	L00622502	Profesor 1178	16774
+202311	Campus Querétaro	L00622502	Profesor 1178	16775
+202311	Campus Querétaro	L00622502	Profesor 1178	16776
+202311	Campus Querétaro	L00622612	Profesor 1288	18022
+202311	Campus Querétaro	L00622612	Profesor 1288	18025
+202311	Campus Saltillo	L00621871	Profesor 547	23691
+202311	Campus Saltillo	L00622077	Profesor 753	23697
+202311	Campus Saltillo	L00622156	Profesor 832	23698
+202311	Campus Saltillo	L00622512	Profesor 1188	23583
+202311	Campus Saltillo	L00622512	Profesor 1188	23584
+202311	Campus Saltillo	L00622512	Profesor 1188	23585
+202311	Campus San Luis Potosí	L00621325	Profesor 1	22189
+202311	Campus San Luis Potosí	L00622027	Profesor 703	22203
+202311	Campus San Luis Potosí	L00622332	Profesor 1008	22177
+202311	Campus San Luis Potosí	L00622332	Profesor 1008	22178
+202311	Campus San Luis Potosí	L00622332	Profesor 1008	22179
+202311	Campus Santa Fe	L00621452	Profesor 128	1889
+202311	Campus Santa Fe	L00621516	Profesor 192	507
+202311	Campus Santa Fe	L00621527	Profesor 203	934
+202311	Campus Santa Fe	L00621527	Profesor 203	982
+202311	Campus Santa Fe	L00621591	Profesor 267	465
+202311	Campus Santa Fe	L00621591	Profesor 267	481
+202311	Campus Santa Fe	L00621598	Profesor 274	443
+202311	Campus Santa Fe	L00621608	Profesor 284	991
+202311	Campus Santa Fe	L00621610	Profesor 286	465
+202311	Campus Santa Fe	L00621610	Profesor 286	481
+202311	Campus Santa Fe	L00621617	Profesor 293	458
+202311	Campus Santa Fe	L00621636	Profesor 312	990
+202311	Campus Santa Fe	L00621671	Profesor 347	935
+202311	Campus Santa Fe	L00621693	Profesor 369	1781
+202311	Campus Santa Fe	L00621713	Profesor 389	1193
+202311	Campus Santa Fe	L00621713	Profesor 389	1194
+202311	Campus Santa Fe	L00621784	Profesor 460	444
+202311	Campus Santa Fe	L00621784	Profesor 460	37895
+202311	Campus Santa Fe	L00621790	Profesor 466	1198
+202311	Campus Santa Fe	L00622003	Profesor 679	467
+202311	Campus Santa Fe	L00622003	Profesor 679	1180
+202311	Campus Santa Fe	L00622003	Profesor 679	36187
+202311	Campus Santa Fe	L00622145	Profesor 821	1781
+202311	Campus Santa Fe	L00622166	Profesor 842	1767
+202311	Campus Santa Fe	L00622238	Profesor 914	988
+202311	Campus Santa Fe	L00622238	Profesor 914	989
+202311	Campus Santa Fe	L00622239	Profesor 915	987
+202311	Campus Santa Fe	L00622239	Profesor 915	993
+202311	Campus Santa Fe	L00622246	Profesor 922	933
+202311	Campus Santa Fe	L00622246	Profesor 922	983
+202311	Campus Santa Fe	L00622262	Profesor 938	510
+202311	Campus Santa Fe	L00622268	Profesor 944	500
+202311	Campus Santa Fe	L00622268	Profesor 944	502
+202311	Campus Santa Fe	L00622292	Profesor 968	992
+202311	Campus Santa Fe	L00622337	Profesor 1013	501
+202311	Campus Santa Fe	L00622357	Profesor 1033	1764
+202311	Campus Santa Fe	L00622357	Profesor 1033	1765
+202311	Campus Santa Fe	L00622357	Profesor 1033	1766
+202311	Campus Santa Fe	L00622392	Profesor 1068	33812
+202311	Campus Santa Fe	L00622392	Profesor 1068	37855
+202311	Campus Santa Fe	L00622464	Profesor 1140	505
+202311	Campus Santa Fe	L00622480	Profesor 1156	489
+202311	Campus Sinaloa	L00621541	Profesor 217	33632
+202311	Campus Sinaloa	L00622212	Profesor 888	25084
+202311	Campus Sinaloa	L00622478	Profesor 1154	23204
+202311	Campus Sinaloa	L00622478	Profesor 1154	23205
+202311	Campus Sinaloa	L00622478	Profesor 1154	23206
+202311	Campus Tampico	L00621832	Profesor 508	19100
+202311	Campus Tampico	L00621992	Profesor 668	20551
+202311	Campus Tampico	L00622056	Profesor 732	19081
+202311	Campus Tampico	L00622298	Profesor 974	19079
+202311	Campus Tampico	L00622298	Profesor 974	19080
+202311	Campus Tampico	L00622620	Profesor 1296	19097
+202311	Campus Toluca	L00621454	Profesor 130	13672
+202311	Campus Toluca	L00621596	Profesor 272	16265
+202311	Campus Toluca	L00621597	Profesor 273	13744
+202311	Campus Toluca	L00621760	Profesor 436	12193
+202311	Campus Toluca	L00621760	Profesor 436	12194
+202311	Campus Toluca	L00621781	Profesor 457	12196
+202311	Campus Toluca	L00621781	Profesor 457	12200
+202311	Campus Toluca	L00621781	Profesor 457	12202
+202311	Campus Toluca	L00622025	Profesor 701	1730
+202311	Campus Toluca	L00622282	Profesor 958	16273
+202311	Campus Toluca	L00622362	Profesor 1038	1745
+202311	Campus Toluca	L00622362	Profesor 1038	1815
+202311	Campus Toluca	L00622362	Profesor 1038	12197
+202311	Campus Toluca	L00622362	Profesor 1038	12199
+202311	Campus Toluca	L00622410	Profesor 1086	12192
+202311	Campus Zacatecas	L00622554	Profesor 1230	23045
