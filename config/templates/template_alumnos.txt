@@ -1,1 +1,3 @@
-"INSERT INTO alumnos VALUES({clave_campus}, '{nombre_campus}', {clave_ejercicio_academico}, '{matricula}', '{nombre}', {crn})".format(clave_campus=val["clave_campus"], nombre_campus=val["nombre_campus"], clave_ejercicio_academico=val["clave_ejercicio_academico"], matricula=val["matricula"], nombre=val["nombre"], crn=val["crn"])
+"INSERT INTO acceso VALUES('{matricula}', 'alumno', '12345678');".format(matricula=val["matricula"])
+"INSERT INTO alumno VALUES('{matricula}', 100, '{nombre}', 'apellidoP', 'apellidoM', '{clave_ejercicio_academico}');".format(matricula=val["matricula"], nombre=val["nombre"], clave_ejercicio_academico=val["clave_ejercicio_academico"])
+"INSERT INTO cursar VALUES('{matricula}', {crn});".format(matricula=val["matricula"], crn=val["crn"])

@@ -1,1 +1,3 @@
-"INSERT INTO profesores VALUES({clave_ejercicio_academico}, '{nombre_campus}', '{n2}', '{nombreprofesor}', {crn})".format(clave_ejercicio_academico=val["clave_ejercicio_academico"], nombre_campus=val["nombre_campus"], n2=val["n2"], nombreprofesor=val["nombreprofesor"], crn=val["crn"])
+"INSERT INTO acceso VALUES('{n2}', 'profesor', '12345678');".format(n2=val["n2"])
+"INSERT INTO profesores VALUES('{n2}', '{nombreprofesor}', 'apellidoP', 'apellidoM', '{clave_ejercicio_academico}');".format(clave_ejercicio_academico=val["clave_ejercicio_academico"], n2=val["n2"], nombreprofesor=val["nombreprofesor"])
+"INSERT INTO impartir VALUES('{n2}', {crn});".format(n2=val["n2"], crn=val["crn"])
