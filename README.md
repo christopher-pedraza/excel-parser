@@ -1,8 +1,11 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/christopher-pedraza/excel-parser)
+![GitHub Release Date](https://img.shields.io/github/release-date/christopher-pedraza/excel-parser?color=c77546)
+
 # excel-parser
 Lets you create custom strings based on the data of an .xlsx file (Microsoft Excel Worksheet)
 
 ## How to use
-1. Download the compressed app.zip file from [Releases](https://github.com/christopher-pedraza/excel-parser/releases/latest).
+1. Download the compressed file that contains the program and needed configuration files from [Releases](https://github.com/christopher-pedraza/excel-parser/releases/latest/download/excel-parser.zip).
 2. Extract it anywhere you want (bear in mind that it contains multiple folders and files, so you may prefer extracting it in a separate folder).
 3. Add the location of the input, template and output files in **_files.txt_**.
     * The text files' names should have the prefix of the type of file followed by an underscore. If it is an input file (input_filename.txt), a template file (template_filename.txt) and an output file (output_filename.txt).
@@ -20,4 +23,5 @@ Lets you create custom strings based on the data of an .xlsx file (Microsoft Exc
         * Also, the key that is provided to the list needs to be the same as one of the headers of the input .xlsx, only that any spaces are changed into underscores and all the letters transformed into lowercase.
         * As you can see, the left part of the template is enclosed by double quotation marks. They are essential, however, you can also use single quotation marks. Whether you use one or the other depends on whether you are going to use one of them inside the text. If you use double quotation marks to enclose, you can only use single inside, and viceversa. In the example, I'm enclosing the text with double quotation marks and the variable `col1` with single.
         * Each variable needs to be enclosed by curly braces (e.g. `{varName}`).
+        * Also, you can include as many template strings as you want, just add each in a separate line.
 6. Finally, when everything is configured, you may run `parser.exe` and see the resulting strings in the output files you defined earlier (step 3).
